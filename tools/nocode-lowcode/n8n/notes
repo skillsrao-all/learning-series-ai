@@ -1,0 +1,112 @@
+# 📘 n8n – Workflow Automation Tool Notes
+
+## 🧠 What is n8n?
+
+**n8n** (pronounced "n-eight-n") is an **open-source workflow automation tool** that connects apps, APIs, and services to automate tasks and data flows. It offers powerful integration and customization options using a visual interface.
+
+---
+
+## 🚀 Key Features
+
+- 🔓 **Open Source** – Fair-code licensed and can be self-hosted.
+- 🧩 **350+ Built-in Nodes** – For apps like Google Sheets, Slack, Trello, etc.
+- 🖱️ **Visual Workflow Builder** – Drag-and-drop UI for designing automations.
+- 🧠 **Custom JavaScript Support** – For logic and data transformation.
+- ⏰ **Flexible Triggers** – Webhooks, cron jobs, polling, etc.
+- 🔀 **Conditional Logic** – Use `IF`, `Switch`, and error handling nodes.
+- ☁️ **Scalable Deployment** – Self-host or use [n8n.cloud](https://n8n.io/).
+
+---
+
+## 🛠️ Core Components
+
+| Component     | Description                                         |
+|--------------|-----------------------------------------------------|
+| **Node**      | A step in the workflow (e.g., HTTP request, Slack). |
+| **Workflow**  | A chain of nodes defining the automation.           |
+| **Trigger**   | Starts the workflow (e.g., webhook, schedule).      |
+| **Execution** | A run instance of a workflow.                       |
+
+---
+
+## 📦 Installation Options
+
+- **Self-hosted**
+  - Docker (recommended)
+  - `npm install n8n` (for local development)
+- **Cloud**
+  - Official service: [n8n.cloud](https://n8n.cloud)
+
+---
+
+## 💼 Common Use Cases
+
+- Automating CRM or lead tracking
+- Syncing data between apps (e.g., Airtable ↔ Google Sheets)
+- Webhook-based API workflows
+- Sending notifications (Slack, Discord, Email)
+- Daily/weekly report generation
+- Scraping, monitoring, and alerting tasks
+
+---
+
+## 🧩 Example Node Types
+
+| Type         | Examples                         |
+|--------------|----------------------------------|
+| **Triggers** | Webhook, Cron, IMAP Email        |
+| **Apps**     | Google Sheets, Airtable, Notion  |
+| **Dev Tools**| HTTP Request, Function, Set      |
+| **Messaging**| Slack, Discord, Telegram         |
+| **Database** | MySQL, PostgreSQL, MongoDB       |
+| **Logic**    | IF, Switch, Merge                |
+
+---
+
+## 🔐 Authentication & Security
+
+- Supports **OAuth2**, **API Key**, **Basic Auth**
+- Credentials securely stored
+- Role-based access (cloud/enterprise features)
+
+---
+
+## 📚 Learning Resources
+
+- 📘 [Official Docs](https://docs.n8n.io/)
+- 🎓 [n8n Academy](https://academy.n8n.io/)
+- 🧑‍💻 [GitHub Repo](https://github.com/n8n-io/n8n)
+- 💬 [Community Forum](https://community.n8n.io/)
+
+---
+
+## ⚖️ Pros & Cons
+
+| ✅ Pros                          | ❌ Cons                          |
+|----------------------------------|----------------------------------|
+| Open-source & self-hostable      | Steeper learning curve           |
+| Highly customizable workflows    | Requires some technical setup    |
+| JavaScript support for logic     | UI can be overwhelming at first  |
+| Active community & docs          | Self-hosting needs maintenance   |
+
+---
+
+## 📄 License
+
+n8n is licensed under the **Fair-code License** – free for personal and small business use. See full license details [here](https://faircode.io/).
+
+---
+
+## 🧪 Example Use Case (Optional Section)
+
+> **Use Case**: Send a Slack message every time a new row is added to Google Sheets.
+>
+> **Workflow**:
+> 1. **Trigger**: Google Sheets (New Row)
+> 2. **Node**: Slack (Send Message)
+> 3. **Optional**: Add logic with `IF` or `Function` node
+
+---
+
+> _Feel free to contribute improvements or workflow templates!_
+
