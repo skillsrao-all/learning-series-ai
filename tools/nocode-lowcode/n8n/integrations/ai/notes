@@ -1,0 +1,228 @@
+# 🧩 n8n Integrations  
+_As of **19 Oct 2025**, there are **87 integrations** available in n8n._
+
+---
+
+## 📚 Table of Contents
+- [AI Agent Integrations](#-ai-agent-integrations)
+- [AI Agent Tools](#-ai-agent-tools)
+- [Claude and Related](#-claude-and-related)
+- [Code and LLM Tools](#-code-and-llm-tools)
+- [Embeddings Integrations](#-embeddings-integrations)
+- [Data and Document Loaders](#-data-and-document-loaders)
+- [Google AI Ecosystem](#-google-ai-ecosystem)
+- [Other LLM Providers](#-other-llm-providers)
+- [MCP and Vector Tools](#-mcp-and-vector-tools)
+- [Memory and Retrieval Components](#-memory-and-retrieval-components)
+- [Ollama Suite](#-ollama-suite)
+- [OpenAI and OpenRouter](#-openai-and-openrouter)
+- [Vector and Database Integrations](#-vector-and-database-integrations)
+- [Chains and Retrievers](#-chains-and-retrievers)
+- [External Knowledge and Math Integrations](#-external-knowledge-and-math-integrations)
+- [Gateway and Chat Models](#-gateway-and-chat-models)
+
+---
+
+## 🤖 AI Agent Integrations
+
+### **OpenAI Integration**
+**OpenAI**  
+OpenAI, the creator of ChatGPT, offers a range of powerful models including GPT-3, DALL·E, and Whisper.  
+Use these models to build AI-powered workflows.
+
+---
+
+### **Google Gemini Integration**
+**Google Gemini**  
+Gemini is Google’s multimodal AI assistant that answers questions, summarizes content, and generates text, images, and videos.  
+It integrates with Gmail, Maps, and more, supporting both voice and image input.
+
+---
+
+### **Anthropic Integration**
+**Anthropic (Claude)**  
+Provides access to Claude models for writing, research, and coding via a conversational interface.
+
+---
+
+## ⚙️ AI Agent Tools
+
+- **Anthropic Chat Model Integration**  
+- **Auto-fixing Output Parser**  
+- **AWS Bedrock Chat Model Integration**  
+- **Azure OpenAI Chat Model Integration**  
+- **Basic LLM Chain**  
+- **Calculator**  
+- **Call n8n Workflow Tool**  
+- **Character Text Splitter**  
+- **Chat Memory Manager**
+
+---
+
+## 🧠 Claude and Related
+
+### **Claude Integration**
+**Claude**  
+Claude is a suite of foundational AI models designed for diverse applications, accessible at [claude.ai](https://claude.ai).  
+Users can analyze images, parse long documents, and build AI apps using its API.
+
+---
+
+## 💻 Code and LLM Tools
+
+- **Code Tool**  
+- **Cohere Chat Model Integration**  
+- **Cohere Model Integration**  
+- **Contextual Compression Retriever**  
+- **DeepSeek Chat Model Integration**  
+- **Default Data Loader Integration**
+
+---
+
+## 🔠 Embeddings Integrations
+
+- **Embeddings AWS Bedrock Integration**  
+- **Embeddings Azure OpenAI Integration**  
+- **Embeddings Cohere Integration**  
+- **Embeddings Google Gemini Integration**  
+- **Embeddings Google PaLM Integration**  
+- **Embeddings Google Vertex Integration**  
+- **Embeddings Hugging Face Inference Integration**  
+- **Embeddings Mistral Cloud Integration**  
+- **Embeddings Ollama Integration**  
+- **Embeddings OpenAI Integration**
+
+---
+
+## 🧾 Data and Document Loaders
+
+- **GitHub Document Loader Integration**  
+- **Default Data Loader Integration**
+
+---
+
+## 🧮 Google AI Ecosystem
+
+### **Google AI Studio (Gemini) Integration**
+**Google AI Studio (Gemini)**  
+A collaborative environment to build and deploy ML models.  
+Includes design, training, and evaluation tools.
+
+---
+
+### **Google Gemini Chat Model Integration**  
+### **Google PaLM Chat Model Integration**  
+### **Google PaLM Language Model Integration**
+
+---
+
+### **Google Vertex AI Integration**
+**Google Vertex AI**  
+A unified ML platform with AutoML, datasets, and model-deployment tools.
+
+- **Google Vertex Chat Model Integration**
+
+---
+
+## ⚡ Other LLM Providers
+
+- **Groq Chat Model Integration**  
+- **Hugging Face Inference Model Integration**  
+- **Information Extractor**  
+- **Item List Output Parser**  
+- **LangChain Code**  
+
+---
+
+## 🧩 MCP and Vector Tools
+
+- **MCP Client Tool Integration**  
+- **MCP Server Trigger Integration**  
+- **Milvus Vector Store Integration**  
+- **Mistral Cloud Chat Model Integration**  
+- **Model Selector**  
+- **MongoDB Atlas Vector Store Integration**  
+- **MongoDB Chat Memory Integration**
+
+---
+
+## 🧠 Memory and Retrieval Components
+
+- **Motorhead**  
+- **MultiQuery Retriever**
+
+---
+
+## 🧰 Ollama Suite
+
+- **Ollama Integration**  
+- **Ollama Chat Model Integration**  
+- **Ollama Model Integration**
+
+---
+
+## 💬 OpenAI and OpenRouter
+
+- **OpenAI Chat Model Integration**  
+- **OpenRouter Chat Model Integration**
+
+---
+
+## 🗄️ Vector and Database Integrations
+
+- **Pinecone Vector Store Integration**  
+- **Postgres Chat Memory Integration**  
+- **Postgres PGVector Store Integration**  
+- **Qdrant Vector Store Integration**  
+- **Redis Chat Memory Integration**  
+- **Redis Vector Store Integration**  
+- **Supabase Vector Store Integration**  
+- **Weaviate Vector Store Integration**  
+- **Xata Integration**  
+- **Zep Integration**  
+- **Zep Vector Store Integration**
+
+---
+
+## 🧩 Chains and Retrievers
+
+- **Question and Answer Chain**  
+- **Recursive Character Text Splitter**  
+- **Reranker Cohere Integration**  
+- **Sentiment Analysis**  
+- **Simple Memory**  
+- **Simple Vector Store**  
+- **Structured Output Parser**  
+- **Summarization Chain**  
+- **Text Classifier**  
+- **Think Tool**  
+- **Token Splitter**  
+- **Vector Store Question Answer Tool**  
+- **Vector Store Retriever**  
+- **Workflow Retriever**
+
+---
+
+## 🌐 External Knowledge and Math Integrations
+
+### **SearXNG Integration**
+Search engine meta-aggregator for retrieval tasks.
+
+### **Wikipedia Integration**
+Retrieve Wikipedia content into workflows.
+
+### **Wolfram | Alpha Integration**
+Access computational knowledge for math and science queries.
+
+---
+
+## 🧩 Gateway and Chat Models
+
+- **Vercel AI Gateway Chat Model Integration**  
+- **xAI Grok Chat Model Integration**
+
+---
+
+✅ **Total Integrations:** 87  
+
+---
