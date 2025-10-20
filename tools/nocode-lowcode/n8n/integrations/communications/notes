@@ -1,0 +1,1190 @@
+# 💬 n8n Communication Integrations  
+_As of **19 Oct 2025**, there are **175 integrations** in this category._
+
+---
+
+## 📚 Table of Contents
+- [Ably](#-ably)
+- [AMQP Sender](#-amqp-sender)
+- [AMQP Trigger](#-amqp-trigger)
+- [Automizy](#-automizy)
+- [AWS SES](#-aws-ses)
+- [AWS SNS](#-aws-sns)
+- [AWS SNS Trigger](#-aws-sns-trigger)
+- [AWS SQS](#-aws-sqs)
+- [Big Data Cloud](#-big-data-cloud)
+- [Botbaba](#-botbaba)
+- [Botsonic](#-botsonic)
+- [Botstar](#-botstar)
+- [Brevo](#-brevo)
+- [Brevo Trigger](#-brevo-trigger)
+- [Browse AI](#-browse-ai)
+- [Chaindesk](#-chaindesk)
+- [Chatbase](#-chatbase)
+- [Chatling](#-chatling)
+- [Chatsonic](#-chatsonic)
+- [Cisco Webex](#-cisco-webex)
+- [ClickSend SMS](#-clicksend-sms)
+- [ClickUp](#-clickup)
+- [ClickUp Trigger](#-clickup-trigger)
+- [Cortex](#-cortex)
+- [Crisp](#-crisp)
+- [CrowdPower](#-crowdpower)
+- [Customer.io](#-customerio)
+- [Customer.io Trigger](#-customerio-trigger)
+- [Dasha](#-dasha)
+- [Demio](#-demio)
+- [Discord](#-discord)
+- [Discourse](#-discourse)
+- [Disqus](#-disqus)
+- [DocsBot AI](#-docsbot-ai)
+- [E-goi](#-e-goi)
+- [Emelia](#-emelia)
+- [Emelia Trigger](#-emelia-trigger)
+- [Envoy](#-envoy)
+- [Esendex](#-esendex)
+
+---
+
+### Ably Integration
+**Ably**  
+Ably is a tool designed to efficiently distribute real-time data to users through a publish/subscribe messaging pattern over WebSocket connections. It simplifies managing infrastructure for real-time messaging, enabling reliable live data delivery.
+
+---
+
+### AMQP Sender Integration
+**AMQP Sender**  
+AMQP (Advanced Message Queuing Protocol) facilitates business messaging between applications or organizations. It functions asynchronously and even over unreliable networks, ensuring dependable message delivery.
+
+---
+
+### AMQP Trigger Integration
+**AMQP Trigger**  
+AMQP Trigger enables asynchronous communication between distributed systems. It allows workflows to respond automatically to queued messages without continuous polling.
+
+---
+
+### Automizy Integration
+**Automizy**  
+Automizy automates email-marketing campaigns using an intuitive drag-and-drop builder and AI subject-line testing to optimize open rates and efficiency.
+
+---
+
+### AWS SES Integration
+**AWS SES (Simple Email Service)**  
+Amazon SES is a scalable cloud-based email solution that replaces on-premises SMTP servers. It provides reliable, low-cost transactional and bulk email delivery with advanced analytics.
+
+---
+
+### AWS SNS Integration
+**AWS SNS (Simple Notification Service)**  
+Amazon SNS is a fully managed publish/subscribe messaging service for A2A and A2P communication. It supports FIFO messaging, encryption, and delivery to multiple endpoints.
+
+---
+
+### AWS SNS Trigger Integration
+**AWS SNS Trigger**  
+Integrates workflows with Amazon SNS topics, enabling automation when new messages are published and ensuring near-real-time notification handling.
+
+---
+
+### AWS SQS Integration
+**AWS SQS (Simple Queue Service)**  
+SQS is a managed message queuing service that enables reliable decoupling of microservices. It guarantees delivery and scales to any message volume.
+
+---
+
+### Big Data Cloud Integration
+**Big Data Cloud**  
+BigDataCloud offers precise IP geolocation and data-intelligence APIs for sectors such as e-commerce, advertising, and SaaS, providing patented accuracy worldwide.
+
+---
+
+### Botbaba Integration
+**Botbaba**  
+Botbaba is an AI assistant that automates repetitive tasks using algorithms and chat-based workflows, improving productivity across business operations.
+
+---
+
+### Botsonic Integration
+**Botsonic**  
+Botsonic, built by WriteSonic and powered by GPT-4, is a no-code chatbot builder for creating AI assistants that handle support, lead capture, and product guidance.
+
+---
+
+### Botstar Integration
+**BotStar**  
+BotStar is a chatbot-creation platform that lets users design intelligent conversational bots without coding. It provides automation, analytics, and integration with popular messaging apps.
+
+---
+
+### Brevo Integration
+**Brevo (Sendinblue)**  
+Brevo is an all-in-one marketing platform for B2B/B2C communication, offering transactional messaging, campaign automation, and end-to-end digital marketing solutions.
+
+---
+
+### Brevo Trigger Integration
+**Brevo Trigger**  
+Connects workflows directly with Brevo events such as new subscribers or campaign updates, enabling automated responses and CRM actions.
+
+---
+
+### Browse AI Integration
+**Browse AI**  
+Browse AI extracts and monitors data from websites using automation and AI, enabling businesses to analyze web content and customer behavior efficiently.
+
+---
+
+### Chaindesk Integration
+**Chaindesk**  
+Chaindesk is a no-code platform for building custom AI chatbots trained on specific company data. It streamlines customer-support workflows and improves productivity.
+
+---
+
+### Chatbase Integration
+**Chatbase**  
+Chatbase enables you to create a personalized version of ChatGPT for your website. Custom GPTs can handle support, lead generation, and engagement.
+
+---
+
+### Chatling Integration
+**Chatling**  
+Chatling allows creation of website-embedded chatbots without coding. It improves user engagement through conversational AI tailored to customer needs.
+
+---
+
+### Chatsonic Integration
+**Chatsonic**  
+Chatsonic, a conversational AI chatbot powered by GPT-4, provides creative content generation, contextual responses, and integration across business apps.
+
+---
+
+### Cisco Webex Integration
+**Cisco Webex**  
+Cisco Webex offers secure online meetings, video conferences, and webinars with screen-sharing and interactive collaboration tools for teams and organizations.
+
+---
+
+### ClickSend SMS Integration
+**ClickSend SMS**  
+ClickSend enables sending of SMS, email, fax, and voice messages via a single digital communication platform, simplifying global outreach for businesses.
+
+---
+
+### ClickUp Integration
+**ClickUp**  
+ClickUp unifies tasks, documents, chat, goals, and collaboration in one workspace, reducing app sprawl and improving productivity across teams.
+
+---
+
+### ClickUp Trigger Integration
+**ClickUp Trigger**  
+Activates workflows based on ClickUp events such as task creation or status changes, helping automate project management tasks.
+
+---
+
+### Cortex Integration
+**Cortex**  
+Cortex consolidates threat-analysis tools for SOCs and CSIRTs, allowing scalable examination of observables and coordinated incident response.
+
+---
+
+### Crisp Integration
+**Crisp**  
+Crisp is a multichannel customer-support platform combining live chat, knowledge base, campaigns, and automation in a single collaborative interface.
+
+---
+
+### CrowdPower Integration
+**CrowdPower**  
+CrowdPower builds personalized email workflows triggered by user behavior to educate and engage customers, increasing conversions and referrals.
+
+---
+
+### Customer.io Integration
+**Customer.io**  
+Customer.io is a data-driven messaging platform for marketers, enabling automation of emails, push notifications, and in-app messages using event data.
+
+---
+
+### Customer.io Trigger Integration
+**Customer.io Trigger**  
+Launches workflows in response to Customer.io events like new messages or campaign sends, enhancing personalized communication automation.
+
+---
+
+### Dasha Integration
+**Dasha**  
+Dasha provides conversational AI services for embedding natural voice and text interactions in apps, from call-centers to IoT devices.
+
+---
+
+### Demio Integration
+**Demio**  
+Demio facilitates automated and live webinars with strong engagement tools, analytics, and seamless marketing-tool integration.
+
+---
+
+### Discord Integration
+**Discord**  
+Discord connects communities through voice, video, and text. It’s widely used by gaming, study, and professional groups for collaboration and live events.
+
+---
+
+### Discourse Integration
+**Discourse**  
+Discourse is an open-source discussion platform acting as a forum, mailing list, and chat space, enabling modern online communities.
+
+---
+
+### Disqus Integration
+**Disqus**  
+Disqus is a popular commenting system for websites, helping publishers manage discussions easily with moderation and community tools.
+
+---
+
+### DocsBot AI Integration
+**DocsBot AI**  
+DocsBot AI assists with document creation, editing, and formatting using NLP and ML to suggest content improvements and automate writing tasks.
+
+---
+
+### E-goi Integration
+**E-goi**  
+E-goi is an omnichannel marketing-automation suite supporting email, SMS, push notifications, and social campaigns, serving 700 000+ users globally.
+
+---
+
+### Emelia Integration
+**Emelia**  
+Emelia is an affordable cold-emailing platform supporting A/B testing, spin-text, and timed delivery, optimizing outreach performance.
+
+---
+
+### Emelia Trigger Integration
+**Emelia Trigger**  
+Allows workflows to react to Emelia events such as campaign sends or replies, automating lead-nurture sequences.
+
+---
+
+### Envoy Integration
+**Envoy**  
+Envoy enhances workplace operations by managing visitors, employees, and resources securely while ensuring compliance and analytics insights.
+
+---
+
+### Esendex Integration
+**Esendex**  
+Esendex provides business messaging services including SMS and voice solutions, empowering companies to engage customers efficiently.
+
+---
+### Faros Integration
+**Faros**  
+Faros lets you build apps capable of understanding and responding in natural language, covering chatbots, assistants, and conversational interfaces.
+
+---
+
+### FastBots Integration
+**FastBots**  
+FastBots provides automated messaging services for businesses. It enables the creation of chatbots that answer inquiries, book appointments, and share information.
+
+---
+
+### Fluent Support Integration
+**Fluent Support**  
+Fluent Support is a powerful WordPress help-desk plugin. It unifies email and ticket support within your WP dashboard for fast, efficient responses.
+
+---
+
+### Formdesk Integration
+**Formdesk**  
+Formdesk lets users design and customize online forms for data collection and workflow automation, simplifying business form management.
+
+---
+
+### Form.io Trigger Integration
+**Form.io Trigger**  
+Triggers workflows from new submissions in Form.io. The platform supports drag-and-drop form building and full API-based data management.
+
+---
+
+### Formsite Integration
+**Formsite**  
+Formsite is a cloud platform for creating surveys and forms with flexible customization and analytics dashboards.
+
+---
+
+### Formstack Trigger Integration
+**Formstack Trigger**  
+Connects n8n workflows to Formstack events. Formstack boosts workplace productivity with no-code automation for 25 000 + organizations.
+
+---
+
+### Freshdesk Integration
+**Freshdesk**  
+Freshdesk modernizes customer service with shared inboxes, chatbots, ticket routing, and analytics—helping teams boost efficiency and CSAT.
+
+---
+
+### GetResponse Integration
+**GetResponse**  
+GetResponse is an all-in-one marketing platform for email, landing pages, and e-commerce campaigns, trusted by 100 000 + businesses.
+
+---
+
+### GetResponse Trigger Integration
+**GetResponse Trigger**  
+Starts workflows on events like new subscribers or campaign sends, enabling automated marketing flows.
+
+---
+
+### Gmail Integration
+**Gmail**  
+Gmail is Google’s free email service for individuals and organizations. It powers global communication through Google Workspace.
+
+---
+
+### Gmail Trigger Integration
+**Gmail Trigger**  
+Activates workflows when new Gmail messages arrive or are labeled, enabling automated message handling.
+
+---
+
+### GoToWebinar Integration
+**GoToWebinar**  
+GoTo Webinar offers live and automated webinars with HD video, analytics, and engagement features—used for over 2.8 M events yearly.
+
+---
+
+### Gotify Integration
+**Gotify**  
+Gotify is a free, self-hosted messaging server that pushes notifications to desktop and mobile devices securely.
+
+---
+
+### Google Business Profile Trigger Integration
+**Google Business Profile Trigger**  
+Connects workflows with events from Google Business Profile to automate updates and engagement.
+
+---
+
+### Google Chat Integration
+**Google Chat**  
+Google Chat simplifies team collaboration with secure messaging, thread organization, and integration with Workspace tools.
+
+---
+
+### Gupshup Integration
+**Gupshup**  
+Gupshup is a conversational messaging platform enabling bots, help-desks, and marketing automation across chat channels.
+
+---
+
+### Hacker News Integration
+**Hacker News**  
+Hacker News is a community sharing insights in tech and entrepreneurship, serving 5 M readers monthly.
+
+---
+
+### HaloPSA Integration
+**HaloPSA**  
+HaloPSA is end-to-end software for IT service providers, covering CRM, projects, billing, inventory, and contracts.
+
+---
+
+### Help Scout Integration
+**Help Scout**  
+Help Scout offers shared inboxes, live chat, and customer data for 12 000 + businesses to communicate effectively.
+
+---
+
+### Help Scout Trigger Integration
+**Help Scout Trigger**  
+Runs workflows when Help Scout tickets or conversations are created, updated, or closed.
+
+---
+
+### Hugging Face Integration
+**Hugging Face**  
+Hugging Face builds open-source ML models and APIs for NLP tasks like sentiment analysis, translation, and text generation.
+
+---
+
+### Imgur Integration
+**Imgur**  
+Imgur is a leading image-sharing platform for hosting and discussing pictures and GIFs in an active online community.
+
+---
+
+### Instabot Integration
+**Instabot**  
+Instabot is a multi-channel chatbot builder for websites and apps, providing drag-and-drop design and analytics.
+
+---
+
+### Intercom Integration
+**Intercom**  
+Intercom combines live chat, support, and marketing automation in one customer-communication platform used by 25 000 + companies.
+
+---
+
+### Iterable Integration
+**Iterable**  
+Iterable is a cross-channel marketing platform allowing personalized customer journeys and engagement analytics.
+
+---
+
+### JotForm Trigger Integration
+**JotForm Trigger**  
+Triggers workflows on new form submissions from JotForm’s drag-and-drop encrypted online-form builder.
+
+---
+
+### Kaggle Integration
+**Kaggle**  
+Kaggle hosts data-science competitions, datasets, and notebooks, enabling collaborative model building and learning.
+
+---
+
+### Keap Integration
+**Keap**  
+Keap helps small businesses with CRM, email marketing, lead capture, and automation to boost conversions.
+
+---
+
+### Keap Trigger Integration
+**Keap Trigger**  
+Starts workflows when new contacts, invoices, or deals appear in Keap.
+
+---
+
+### KoBoToolbox Integration
+**KoBoToolbox**  
+KoBoToolbox enables offline mobile surveys for data collection in the field, offered in both cloud and self-hosted versions.
+
+---
+
+### KoBoToolbox Trigger Integration
+**KoBoToolbox Trigger**  
+Activates workflows when new form responses arrive in KoBoToolbox.
+
+---
+
+### Lemlist Integration
+**Lemlist**  
+Lemlist automates and personalizes cold-email outreach to improve reply rates and sales engagement.
+
+---
+
+### Lemlist Trigger Integration
+**Lemlist Trigger**  
+Responds to Lemlist campaign events such as email sends, opens, or replies.
+
+---
+
+### Line Integration
+**Line**  
+Line is a free mobile-messaging app for calls, texts, games, payments, and promotions, used by hundreds of millions globally.
+
+---
+
+### LinkedIn Integration
+**LinkedIn**  
+LinkedIn is the world’s largest professional network for job opportunities, learning, and business insights.
+
+---
+
+### LiveAgent Integration
+**LiveAgent**  
+LiveAgent unifies email, chat, and social media messages in one support dashboard for faster customer responses.
+
+---
+
+### Mailchimp Integration
+**Mailchimp**  
+Mailchimp is an all-in-one marketing and email-automation platform for managing lists, campaigns, and analytics.
+
+---
+
+### Mailchimp Trigger Integration
+**Mailchimp Trigger**  
+Launches workflows on subscriber or campaign events from Mailchimp.
+
+---
+
+### MailerLite Integration
+**MailerLite**  
+MailerLite offers email-marketing tools with drag-and-drop editors, analytics, and subscriber management.
+
+---
+
+### MailerLite Trigger Integration
+**MailerLite Trigger**  
+Runs workflows when new subscribers or campaign activities occur in MailerLite.
+
+---
+
+### Mailersend Integration
+**Mailersend**  
+Mailersend is an API-based transactional email platform with analytics, templates, and SMTP integration.
+
+---
+
+### Mailgun Integration
+**Mailgun**  
+Mailgun provides email APIs for developers to send, receive, and track messages, used by 100 000 + companies.
+
+---
+
+### Mailify Integration
+**Mailify**  
+Mailify enables creation and automation of professional email campaigns with templates and real-time reports.
+
+---
+
+### Mailjet Integration
+**Mailjet**  
+Mailjet allows sending, designing, and tracking of transactional or marketing emails in the cloud with no coding.
+
+---
+
+### Mailjet Trigger Integration
+**Mailjet Trigger**  
+Triggers workflows from Mailjet events such as new contacts or email deliveries.
+
+---
+
+### Mailmodo Integration
+**Mailmodo**  
+Mailmodo brings interactivity to emails, allowing businesses to embed forms and actions directly inside messages.
+
+---
+
+### Mailtrap Integration
+**Mailtrap**  
+Mailtrap provides safe email testing and debugging environments for developers before production delivery.
+
+---
+
+### Mandrill Integration
+**Mandrill**  
+Mandrill is a Mailchimp add-on for sending transactional emails triggered by user actions like purchases or password resets.
+
+---
+
+### Marketstack Integration
+**Marketstack**  
+Marketstack offers APIs for real-time and historical market data in JSON, trusted by 30 000 + users worldwide.
+
+---
+
+### Mastodon Integration
+**Mastodon**  
+Mastodon is an open-source decentralized social network prioritizing privacy and data ownership.
+
+---
+
+### Mattermost Integration
+**Mattermost**  
+Mattermost is a self-hosted open-source chat platform for secure internal team communication and file sharing.
+
+---
+
+### Matrix Integration
+**Matrix**  
+Matrix provides an open network for secure, real-time, decentralized communication with end-to-end encryption.
+
+---
+
+### Mautic Integration
+**Mautic**  
+Mautic is an open-source marketing-automation system for lead generation, segmentation, and campaign management.
+
+---
+
+### Mautic Trigger Integration
+**Mautic Trigger**  
+Starts workflows when new contacts, emails, or campaigns are created in Mautic.
+
+---
+
+### Microsoft Outlook Integration
+**Microsoft Outlook**  
+Outlook is Microsoft’s professional email and calendar client used worldwide for communication and scheduling.
+
+---
+
+### Microsoft Outlook Trigger Integration
+**Microsoft Outlook Trigger**  
+Executes workflows when new Outlook emails arrive or events occur in calendar.
+
+---
+
+### Microsoft Teams Integration
+**Microsoft Teams**  
+Microsoft Teams provides chat, meetings, file sharing, and collaboration features within Microsoft 365.
+
+---
+
+### Microsoft Teams Admin Integration
+**Microsoft Teams Admin**  
+Microsoft Teams Admin enables administrators to manage Teams settings, security, and analytics centrally.
+
+---
+
+### Microsoft Teams Trigger Integration
+**Microsoft Teams Trigger**  
+Responds to events such as new messages or channel activity in Teams.
+
+---
+
+### Miro Integration
+**Miro**  
+Miro is an online whiteboard for real-time visual collaboration, brainstorming, and agile planning.
+
+---
+
+### Missive Integration
+**Missive**  
+Missive unites team inboxes and chat in a single workspace with automation rules and integrations.
+
+---
+
+### Mocean Integration
+**Mocean**  
+Mocean offers APIs for global SMS communications, supporting secure, large-scale messaging for enterprises.
+
+---
+
+### Monica CRM Integration
+**Monica CRM**  
+Monica CRM helps individuals manage personal relationships by tracking contacts, events, and notes.
+
+---
+
+### MoonMail Integration
+**MoonMail**  
+MoonMail is an intuitive email-marketing solution for sending personalized campaigns and tracking results.
+
+---
+
+### MQTT Integration
+**MQTT**  
+MQTT is a lightweight publish/subscribe messaging protocol ideal for IoT devices with limited bandwidth.
+
+---
+
+### MQTT Trigger Integration
+**MQTT Trigger**  
+Initiates workflows upon receiving messages from MQTT topics.
+
+---
+### MSG91 Integration
+**MSG91**  
+MSG91 provides enterprise-grade SMS gateway services, including transactional and promotional messaging, OTP verification, and number-validation APIs to enhance customer communication.
+
+---
+
+### MQTT Trigger Integration
+**MQTT Trigger**  
+Activates workflows when messages are published to an MQTT topic—ideal for IoT or event-driven automation.
+
+---
+
+### MSG91 Integration
+**MSG91**  
+MSG91 provides Bulk SMS, transactional SMS API, regional SMS, OTP Verification APIs, and mobile number portability services via a powerful cloud gateway.
+
+---
+
+### Occasion Integration
+**Occasion**  
+Occasion is an event-booking platform that lets businesses manage bookings through calendars and optimize marketing outreach.
+
+---
+
+### OpenAI Chat Communication Integration
+**OpenAI Chat**  
+Allows direct AI-powered messaging using OpenAI models for contextual conversation or support automation.
+
+---
+
+### Oxylabs Integration
+**Oxylabs**  
+Oxylabs supplies proxy and web-scraping solutions (residential + datacenter) for large-scale data gathering.
+
+---
+
+### PagerDuty Integration
+**PagerDuty**  
+PagerDuty delivers incident-response and event-management automation for IT and DevOps, helping teams detect and resolve outages faster.
+
+---
+
+### Patreon Integration
+**Patreon**  
+Patreon is a creator-monetization platform where fans subscribe for exclusive content, supporting sustainable creative work.
+
+---
+
+### Plecto Integration
+**Plecto**  
+Plecto visualizes KPIs and metrics in real-time dashboards to motivate teams and display performance data.
+
+---
+
+### Plivo Integration
+**Plivo**  
+Plivo is a CPaaS (Communications Platform as a Service) enabling SMS, voice, and video communication via simple APIs across 190 + countries.
+
+---
+
+### PostHog Integration
+**PostHog**  
+PostHog offers open-source product-analytics and feature-flagging, capturing events and providing user insights.
+
+---
+
+### Postmark Trigger Integration
+**Postmark Trigger**  
+Initiates workflows based on Postmark events such as email sends, opens, or bounces for precise transactional-email monitoring.
+
+---
+
+### Pushbullet Integration
+**Pushbullet**  
+Pushbullet synchronizes notifications and file transfers between phone and desktop, merging your devices into a single communication flow.
+
+---
+
+### Pushcut Integration
+**Pushcut**  
+Pushcut creates custom iOS notifications and widgets for HomeKit and Shortcuts automation.
+
+---
+
+### Pushcut Trigger Integration
+**Pushcut Trigger**  
+Starts workflows upon new Pushcut notification or automation triggers.
+
+---
+
+### Qualaroo Integration
+**Qualaroo**  
+Qualaroo captures on-site customer feedback with targeted surveys to improve user experience and conversion.
+
+---
+
+### RealPhoneValidation Integration
+**RealPhoneValidation**  
+Verifies authenticity of phone numbers, ensuring contact-list quality and reducing delivery errors.
+
+---
+
+### Redis Trigger Integration
+**Redis Trigger**  
+Fires workflows when changes or messages occur in a Redis data structure, enabling event-driven tasks.
+
+---
+
+### Reddit Integration
+**Reddit**  
+Reddit hosts global topic-based communities where users share content, discuss ideas, and connect through authentic conversation.
+
+---
+
+### Reply Integration
+**Reply**  
+Reply simplifies outbound email and sales communication by automating follow-ups and multi-channel outreach.
+
+---
+
+### Reply.io Integration
+**Reply.io**  
+Reply.io is an AI-driven engagement platform for personalized, automated messaging across email and chat.
+
+---
+
+### RocketChat Integration
+**RocketChat**  
+RocketChat is an open-source collaboration suite for secure team messaging, file sharing, and self-hosting.
+
+---
+
+### Rundeck Integration
+**Rundeck**  
+Rundeck automates operational tasks with job scheduling, web console, and API integration for scalable automation.
+
+---
+
+### Salesforce Integration
+**Salesforce**  
+Salesforce is a leading CRM platform providing 360° customer views for Sales, Marketing, Commerce, and Service.
+
+---
+
+### Salesforce Trigger Integration
+**Salesforce Trigger**  
+Triggers workflows when Salesforce records change (new lead, updated opportunity, etc.), automating CRM processes.
+
+---
+
+### Salesmsg Integration
+**Salesmsg**  
+Salesmsg offers two-way SMS and MMS messaging for businesses, enabling personalized text communication at scale.
+
+---
+
+### SecurityScorecard Integration
+**SecurityScorecard**  
+SecurityScorecard monitors cybersecurity ratings across organizations, vendors, and partners for continuous risk assessment.
+
+---
+
+### Send Email
+**Send Email**  
+Built-in node for sending emails from workflows via SMTP or configured mail services like Gmail or Outlook.
+
+---
+
+### SendGrid Integration
+**SendGrid**  
+SendGrid is a cloud email-delivery platform helping businesses send transactional and marketing emails with analytics and APIs.
+
+---
+
+### Sendy Integration
+**Sendy**  
+Sendy is a self-hosted email-marketing app that uses Amazon SES to send newsletters 100× cheaper than traditional services.
+
+---
+
+### ServiceNow Integration
+**ServiceNow**  
+ServiceNow is a cloud workflow platform for IT and enterprise service management, automating ticketing and operations.
+
+---
+
+### seven Integration
+**seven (sms77)**  
+Seven is a full messaging service offering SMS, Text-to-Voice, and number lookup features for business communication.
+
+---
+
+### Sharly AI Integration
+**Sharly AI**  
+Sharly AI lets users chat with PDFs and documents, streamlining information retrieval within communication workflows.
+
+---
+
+### SIGNL4 Integration
+**SIGNL4**  
+SIGNL4 is a mobile on-call and alerting app that delivers critical notifications to response teams like IT or emergency services.
+
+---
+
+### Simpleem Integration
+**Simpleem**  
+Simpleem uses Artificial Emotional Intelligence to enhance speech and behavior during virtual communication for better impact.
+
+---
+
+### SimpleTexting Integration
+**SimpleTexting**  
+SimpleTexting is an SMS marketing platform for bulk messages, automation, and two-way texting with analytics.
+
+---
+
+### SiteSpeak AI Integration
+**SiteSpeak AI**  
+SiteSpeak AI lets you build GPT-based support bots trained on your website content to answer customer questions instantly.
+
+---
+
+### Slack Integration
+**Slack**  
+Slack is a collaboration and communication platform for teams of any size, centralizing channels, messaging, and files.
+
+---
+
+### Slack Trigger Integration
+**Slack Trigger**  
+Initiates workflows on Slack events such as messages, reactions, or mentions to automate team tasks.
+
+---
+
+### Smaily Integration
+**Smaily**  
+Smaily is an email-marketing platform with template creation, automation, and campaign analytics to optimize communication.
+
+---
+
+### SmartReach Integration
+**SmartReach**  
+SmartReach enables personalized multi-channel outreach across email and messaging, improving lead engagement.
+
+---
+
+### SMS Magic Integration
+**SMS Magic**  
+SMS Magic offers a global SMS communication suite for marketing automation and CRM integrations.
+
+---
+
+### SMS-IT Integration
+**SMS-IT**  
+SMS-IT provides desktop and mobile apps for sending SMS messages easily and securely across devices.
+
+---
+
+### SnatchBot Integration
+**SnatchBot**  
+SnatchBot is a no-code chatbot builder for automating customer service and marketing across multiple channels.
+
+---
+
+### Spontit Integration
+**Spontit**  
+Spontit is an API-based push-notification service for sending real-time alerts to users on mobile and web devices.
+
+---
+
+### SportsData Integration
+**SportsData**  
+SportsData delivers real-time scores, odds, stats, and news feeds for sports apps and analytics.
+
+---
+
+### SurveyMonkey Trigger Integration
+**SurveyMonkey Trigger**  
+Triggers workflows when new survey responses arrive from SurveyMonkey’s online survey platform.
+
+---
+
+### SurveySparrow Integration
+**SurveySparrow**  
+SurveySparrow is a survey software offering conversational interfaces for engaging feedback collection and analytics.
+
+---
+
+### Survicate Integration
+**Survicate**  
+Survicate gathers feedback through surveys and widgets across channels, helping improve customer retention and satisfaction.
+
+---
+
+### TextCortex AI Integration
+**TextCortex AI**  
+TextCortex AI analyzes text for sentiment, entities, and topics, supporting language translation and content generation.
+
+---
+
+### Textgain Integration
+**Textgain**  
+Textgain uses NLP to analyze text and extract insights in multiple languages for intelligence and analytics.
+
+---
+
+### TextMagic Integration
+**TextMagic**  
+TextMagic provides two-way SMS, voice, and email messaging for organizations to streamline communications and alerts.
+
+---
+
+### Thankster Integration
+**Thankster**  
+Thankster automates handwritten thank-you notes, adding personal touch to digital customer relations.
+
+---
+
+### Telegram Integration
+**Telegram**  
+Telegram is a fast, secure messaging app supporting large groups, file sharing, and cloud sync across devices.
+
+---
+
+### Telegram Trigger Integration
+**Telegram Trigger**  
+Fires workflows on Telegram messages or commands, enabling bot-based automation and alerts.
+
+---
+
+### Trengo Integration
+**Trengo**  
+Trengo unifies customer communication across email, social media, chat, and phone into one shared inbox.
+
+---
+
+### Tisane Labs Integration
+**Tisane Labs**  
+Tisane Labs develops AI solutions for cybersecurity and blockchain, enhancing privacy and data protection.
+
+---
+
+### Twist Integration
+**Twist**  
+Twist is a team communication tool designed to reduce noise and async collaboration with threaded conversations.
+
+---
+
+### Twilio Integration
+**Twilio**  
+Twilio is a customer-engagement platform providing voice, SMS, email, and video APIs for personalized communication.
+
+---
+
+### Twilio Trigger Integration
+**Twilio Trigger**  
+Activates workflows when Twilio receives new calls or messages, enabling real-time communication automation.
+
+---
+### Typeform Trigger Integration
+**Typeform Trigger**  
+Triggers workflows when new form submissions are received in Typeform. Typeform specializes in conversational, interactive forms that improve response rates.
+
+---
+
+### Unisender Integration
+**Unisender**  
+Unisender is a marketing-automation platform offering email and SMS campaign management, tracking, and analytics for customer engagement.
+
+---
+
+### Verifalia Integration
+**Verifalia**  
+Verifalia validates email addresses in real time, improving deliverability and maintaining clean, high-quality mailing lists.
+
+---
+
+### Vero Integration
+**Vero**  
+Vero is a social-media platform and app that lets users share media—books, movies, music, and more—with followers in an ad-free environment.
+
+---
+
+### Vonage Integration
+**Vonage**  
+Vonage is a CPaaS provider enabling voice, SMS, and video communications via APIs, helping businesses build omnichannel experiences.
+
+---
+
+### Vowel Integration
+**Vowel**  
+Vowel is a meeting-collaboration tool with real-time transcription, note-taking, and task tracking, designed to make virtual meetings productive.
+
+---
+
+### Webex by Cisco Integration
+**Webex by Cisco**  
+Webex provides HD video and audio conferencing for up to 1 000 participants, complete with virtual backgrounds, noise removal, and screen-sharing.
+
+---
+
+### Webex by Cisco Trigger Integration
+**Webex by Cisco Trigger**  
+Triggers workflows on meeting events (start, end, participant join) within Webex by Cisco.
+
+---
+
+### WebinarJam Integration
+**WebinarJam**  
+WebinarJam is a cloud-based webinar platform for live and automated sessions with interactive chat, polls, and analytics.
+
+---
+
+### WhatsApp Business Cloud Integration
+**WhatsApp Business Cloud**  
+WhatsApp Cloud API lets companies build apps atop WhatsApp for personalized customer messaging and automation.
+
+---
+
+### WhatsApp Trigger Integration
+**WhatsApp Trigger**  
+Launches workflows when new WhatsApp Business Cloud messages arrive or events occur, supporting instant engagement.
+
+---
+
+### WhatConverts Integration
+**WhatConverts**  
+WhatConverts tracks leads across calls, forms, and chats, offering unified reporting and ROI insights.
+
+---
+
+### Wonderchat Integration
+**Wonderchat**  
+Wonderchat is a messaging app for instant messaging, voice, and video calls, including group chats and media sharing.
+
+---
+
+### WizyChat Integration
+**WizyChat**  
+WizyChat lets users create chatbots from their own knowledge base and integrate them into multiple platforms for automated responses.
+
+---
+
+### Woodpecker.co Integration
+**Woodpecker.co**  
+Woodpecker is a cold-email tool helping B2B companies automate outreach and maintain authentic, ongoing conversations.
+
+---
+
+### WuBook RateChecker Integration
+**WuBook RateChecker**  
+WuBook RateChecker allows hotel businesses to monitor competitor pricing and analyze rate changes across booking platforms.
+
+---
+
+### Wufoo Trigger Integration
+**Wufoo Trigger**  
+Triggers workflows from new form submissions in Wufoo, a cloud-based drag-and-drop form builder for collecting data and payments.
+
+---
+
+### Yelp Communication Integration
+**Yelp Communication**  
+Yelp Communication connects customer reviews and messaging into workflows for local business engagement.
+
+---
+
+### Zendesk Integration
+**Zendesk**  
+Zendesk is a cloud-based customer-service suite and CRM used by companies like Uber and Siemens to manage tickets and live support.
+
+---
+
+### Zendesk Trigger Integration
+**Zendesk Trigger**  
+Activates workflows on new or updated Zendesk tickets, enabling automated support routing and reporting.
+
+---
+
+### Zammad Integration
+**Zammad**  
+Zammad is an open-source help-desk platform offering ticket management, collaboration, and reporting in a user-friendly interface.
+
+---
+
+### Zoho CRM Integration
+**Zoho CRM**  
+Zoho CRM unifies sales, marketing, and customer support in one platform, helping businesses close more deals and grow revenue.
+
+---
+
+### Zoom Integration
+**Zoom**  
+Zoom is a trusted video-conferencing solution used globally for meetings, webinars, and live events across desktop and mobile.
+
+---
+
+### Zulip Integration
+**Zulip**  
+Zulip is a unique team-chat app combining real-time and threaded messaging to keep conversations organized and searchable.
+
+---
+
+---
+
+✅ **Total Integrations:** 175  
+
+---
