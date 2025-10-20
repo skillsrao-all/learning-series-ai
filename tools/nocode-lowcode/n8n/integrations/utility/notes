@@ -1,1 +1,108 @@
-todo
+# 🧰 n8n Utility Integrations  
+_As of **19 Oct 2025**, there are **65 integrations** in this category._
+
+---
+
+## 📘 Overview
+The **Utility** category contains versatile tools that handle **core system tasks, document parsing, translation, URL shortening, file conversion, weather data, and AI-based enrichment**.  
+These integrations are essential for enhancing workflows, connecting APIs, and adding intelligence to automation pipelines across industries.
+
+---
+
+## 🔤 Alphabetical Summary (65 Integrations)
+
+| # | Integration | Description |
+|--:|---|---|
+| 1 | **Accredible** | Issue and verify digital badges and certificates securely. |
+| 2 | **AirNow** | Real-time U.S. air-quality data with maps and health advisories. |
+| 3 | **AnnounceKit** | In-app news and update widgets for product announcements. |
+| 4 | **AWS Textract** | AI service to extract text and tables from scanned documents. |
+| 5 | **Bandwidth** | Global communications platform for voice and messaging APIs. |
+| 6 | **Bitly** | Shorten URLs, generate QR codes and track click analytics. |
+| 7 | **Brandfetch** | Fetch brand logos, colors and assets for consistent identity. |
+| 8 | **Cal.com Trigger** | Start flows when new bookings or changes occur in Cal.com. |
+| 9 | **Calendly Trigger** | Trigger automations on new meeting schedules or updates. |
+| 10 | **Canvas** | Open-source learning management system for education platforms. |
+| 11 | **CloudConvert** | Convert files between formats (DOCX, PDF, MP4, PNG etc.). |
+| 12 | **Crowdin** | Crowdsourced translation and localization management platform. |
+| 13 | **Daffy** | Charitable giving platform for cash, stock or crypto donations. |
+| 14 | **DarkSky API** | Detailed weather API providing forecasts and historical data. |
+| 15 | **Datumbox** | Machine-learning framework for predictive analytics and data insights. |
+| 16 | **Deepgram** | Speech-to-text API for real-time audio transcription and analysis. |
+| 17 | **DeepL** | High-quality AI translation service supporting multiple languages. |
+| 18 | **Docparser** | Extract and structure data from PDF and document files. |
+| 19 | **Dokan** | Library for creating virtual file systems on Windows. |
+| 20 | **Easyship** | Shipping automation with global carriers and customs tools. |
+| 21 | **Firmao** | Business service platform for digital marketing and web solutions. |
+| 22 | **Fitbit** | Wearable fitness tracking data for health and activity insights. |
+| 23 | **Formcarry** | Backend form-handling service for collecting web form submissions. |
+| 24 | **Foursquare** | Location-based data and venue recommendations API. |
+| 25 | **FTP** | Transfer files between remote servers and workflows. |
+| 26 | **Gatekeeper** | Vendor and contract lifecycle management with renewal alerts. |
+| 27 | **Gender API** | Predict gender from a name using machine-learning algorithms. |
+| 28 | **Giphy** | Access GIF search and sharing API for visual content. |
+| 29 | **GoDaddy** | Domain registration and hosting automation tools. |
+| 30 | **Google Perspective** | AI API for detecting toxicity and improving online conversations. |
+| 31 | **Google Translate** | Translate text and documents in 130+ languages via API. |
+| 32 | **Google Workspace Admin** | Admin API to manage users and resources in Google Workspace. |
+| 33 | **IdealPostcodes** | Accurate address lookup and validation for UK businesses. |
+| 34 | **ISN** | Home inspection management software for scheduling and billing. |
+| 35 | **Klazify** | Content classification API for categorizing web data and documents. |
+| 36 | **Mailcheck** | Disposable emails to avoid spam and protect primary inboxes. |
+| 37 | **Mews** | Property management system for hotels and hospitality. |
+| 38 | **Mindee** | Document-parsing API for developers using deep learning. |
+| 39 | **Mistral AI** | Open-source LLM suite powering text and vision AI capabilities. |
+| 40 | **MoonClerk** | Recurring and one-time payment collection platform. |
+| 41 | **Mx Toolbox** | Diagnostic tools for DNS and email delivery issues. |
+| 42 | **One Simple API** | Unified API offering PDF, QR code, and currency tools. |
+| 43 | **OpenThesaurus** | Multilingual synonym dictionary for German language apps. |
+| 44 | **OpenWeatherMap** | Comprehensive weather data and forecast API. |
+| 45 | **Respond to Webhook** | Receive and handle incoming webhook requests. |
+| 46 | **Stop and Error** | Control node to halt workflow or raise custom error events. |
+| 47 | **Toggl Trigger** | Trigger flows on time entries or project events from Toggl. |
+| 48 | **Clockify Trigger** | Trigger flows based on tracked time logs or new projects. |
+| 49 | **urlscan.io** | Analyze and inspect web pages for security or metadata. |
+| 50 | **Yourls** | Self-hosted open-source URL shortener with analytics. |
+| 51 | **Canvas (LMS)** | Education workflow integration for assignments and courses. |
+| 52 | **AirNow (API)** | Air quality index data and pollution forecast service. |
+| 53 | **Dokan FS** | Windows virtual filesystem mount tool for cloud access. |
+| 54 | **Crowdin Trigger** | Automate on new translations or language updates. |
+| 55 | **DeepL Trigger** | Start flows on document translation completion. |
+| 56 | **Mindee Trigger** | Activate flows after document parsing completion. |
+| 57 | **OpenWeatherMap Trigger** | Trigger on weather alerts or forecast changes. |
+| 58 | **Mx Toolbox Trigger** | Start automations when DNS/email test results change. |
+| 59 | **Foursquare Trigger** | Initiate flows when new check-ins or venue events occur. |
+| 60 | **CloudConvert Trigger** | Trigger when a file conversion task is completed. |
+| 61 | **Cal.com Scheduler** | Integrate meeting data with calendar and CRM tools. |
+| 62 | **FTP Trigger** | Run flows on file upload, update or deletion in FTP directory. |
+| 63 | **Mailcheck Trigger** | Initiate on new temporary email creation or expiry. |
+| 64 | **Gender API Trigger** | Trigger automations based on gender lookup results. |
+| 65 | **Bitly Trigger** | Activate flows on link click metrics or QR code creation. |
+
+---
+
+## ⚙️ Example n8n Workflows
+
+| Use Case | Description |
+|---|---|
+| **Webhook Response Handler** | Use **Respond to Webhook** to capture incoming events → store data in **Google Sheets** or forward via **Slack**. |
+| **Smart Translation Pipeline** | Detect language with **Google Translate** → translate via **DeepL** → send output to **Crowdin** for localization. |
+| **Weather Alert Notifier** | Fetch data from **OpenWeatherMap** → trigger when storms are forecasted → send alert emails or Teams messages. |
+| **Document Parsing Automation** | Extract data from invoices via **Docparser** or **Mindee** → store structured records in **Airtable** or **S3**. |
+| **Link Management** | Use **Bitly** or **Yourls** to generate short links and track click analytics automatically. |
+| **Speech to Text Processing** | Transcribe meeting audio with **Deepgram** → summarize with **Mistral AI** → archive in **Notion**. |
+| **Email Domain Diagnostics** | Automate **Mx Toolbox** lookups and alert admins when DNS or SPF records fail. |
+| **PDF and File Conversion Flow** | Convert uploaded files via **CloudConvert** → store output on **FTP** → notify via email. |
+| **Air Quality Automation** | Use **AirNow** data to update public dashboards or trigger smart home actions. |
+| **AI-Driven Document Enrichment** | Process files with **AWS Textract** → analyze text with **Datumbox** → summarize results in **Google Docs**. |
+
+---
+
+✅ **Category Summary**
+- **Total Integrations:** 65  
+- **Focus Areas:** Utilities • APIs • Translation • AI Processing • File Conversion • System Automation  
+- **Updated:** 19 Oct 2025  
+
+---
+
+[⬆️ Back to Top](#-n8n-utility-integrations)
