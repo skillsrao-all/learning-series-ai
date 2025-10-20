@@ -28,24 +28,32 @@ _As of **19 Oct 2025** — Total **1,119 Integrations**_
 
 ## 📘 Description Summary
 
-Each category below represents a specialized segment of the n8n ecosystem, offering automation potential across business, AI, data, and engineering workflows.
+Each category below represents a specialized segment of the n8n ecosystem, offering automation potential across **business**, **AI**, **data**, and **engineering** workflows.
+
+---
 
 | # | Category | Status | Integrations | Description | Example Tools | Common Use Cases |
-|--:|-----------|---------|--------------:|--------------|----------------|------------------|
-| 1 | **AI** | 🕓 Summary Available | **87** | Artificial-intelligence and ML APIs for automation, NLP, and generative workflows. | OpenAI, Claude, Gemini, Hugging Face, Mistral AI | Text generation, summarization, image creation, agents |
-| 2 | **Analytics** | 🕓 Summary Available | **35** | Visualization and reporting platforms to extract insights from structured data. | Google Analytics, Power BI, Tableau | Dashboards, KPI tracking, business reports |
-| 3 | **Communication** | 🕓 Summary Available | **175** | Collaboration and messaging tools for inter-team or customer communication. | Slack, Gmail, Microsoft Teams, Telegram, Twilio | Alerts, chatbots, approval messages |
-| 4 | **Cybersecurity** | 🕓 Summary Available | **38** | Tools for threat detection, scanning, and compliance validation. | Qualys, VirusTotal, Snyk, Tenable | Security scans, vulnerability alerts |
-| 5 | **Data & Storage** | 🕓 Summary Available | **101** | Cloud and local storage integrations for ETL, sync, and archival. | PostgreSQL, MongoDB, BigQuery, Airtable | Data pipelines, sync jobs, backups |
-| 6 | **Developer Tools** | 🕓 Summary Available | **4** | Utilities supporting coding, APIs, and identity management. | ApiFlash, Gong, LDAP, Microsoft Entra ID | API testing, CI/CD hooks, directory sync |
-| 7 | **Development** | ✅ Fully Documented | **256** | Developer and DevOps automations across APIs and CI/CD tools. | GitHub, GitLab, Jenkins, Bitbucket | Code build, deployment, QA pipelines |
-| 8 | **Finance & Accounting** | ✅ Fully Documented | **25** | Accounting, invoicing, and payment platforms. | Stripe, PayPal, Xero, QuickBooks, Wise | Payment automation, reconciliation |
-| 9 | **HITL (Human in the Loop)** | ✅ Fully Documented | **10** | Manual review and approval systems for automated workflows. | Gmail, Slack, Discord, Teams | Manual checks, decision steps |
-|10 | **Marketing** | ✅ Fully Documented | **98** | Marketing automation, lead generation, and SEO tools. | HubSpot, Mailchimp, ActiveCampaign, LinkedIn | Campaign tracking, lead management |
-|11 | **Miscellaneous** | ✅ Fully Documented | **29** | Cross-domain tools for general or creative automation. | Google Docs, Onfleet, OpenWeatherMap | Data capture, document automation |
-|12 | **Productivity** | ✅ Fully Documented | **130** | Workflow and project management integrations. | Asana, Notion, Trello, ClickUp | Task sync, reminders, dashboards |
-|13 | **Sales** | ✅ Fully Documented | **66** | CRM, e-commerce, and lead management platforms. | Salesforce, HubSpot, Shopify, Pipedrive | Deal tracking, order automation |
-|14 | **Utility** | ✅ Fully Documented | **65** | APIs for OCR, translation, files, and short links. | DeepL, AWS Textract, Bitly, CloudConvert | File parsing, document conversion |
+|:-:|:----------|:--------|-------------:|:-------------|:---------------|:----------------|
+| 1 | **AI** | 🕓 Summary Available | **87** | Artificial intelligence and machine learning APIs for automation, NLP, and generative workflows. | OpenAI, Claude, Gemini, Hugging Face, Mistral AI | Text generation, summarization, image creation, AI agents |
+| 2 | **Analytics** | 🕓 Summary Available | **35** | Data visualization, business intelligence, and reporting platforms. | Google Analytics, Power BI, Tableau, Databox | Dashboards, KPI tracking, performance insights |
+| 3 | **Communication** | 🕓 Summary Available | **175** | Collaboration and messaging tools for inter-team and customer communication. | Slack, Gmail, Microsoft Teams, Telegram, Twilio | Alerts, chatbots, approvals, notifications |
+| 4 | **Cybersecurity** | 🕓 Summary Available | **38** | Security scanning, threat detection, and compliance validation platforms. | Qualys, VirusTotal, Snyk, Tenable | Vulnerability scans, incident alerts, patch automation |
+| 5 | **Data & Storage** | 🕓 Summary Available | **101** | Databases and storage APIs for ETL, syncing, and archiving data. | PostgreSQL, MongoDB, BigQuery, Airtable | ETL pipelines, backup automation, data synchronization |
+| 6 | **Developer Tools** | 🕓 Summary Available | **4** | Developer utilities supporting APIs, code reviews, and identity integration. | ApiFlash, Gong, LDAP, Microsoft Entra ID | API testing, CI/CD triggers, directory automation |
+| 7 | **Development** | ✅ Fully Documented | **256** | Core developer and DevOps automation tools. | GitHub, GitLab, Jenkins, Bitbucket | Code builds, testing pipelines, deployment workflows |
+| 8 | **Finance & Accounting** | ✅ Fully Documented | **25** | Accounting, billing, and payment processing integrations. | Stripe, PayPal, Xero, QuickBooks, Wise | Invoice generation, reconciliation, automated payments |
+| 9 | **HITL (Human in the Loop)** | ✅ Fully Documented | **10** | Tools involving manual reviews or approvals within automations. | Gmail, Slack, Discord, Microsoft Teams | Approval workflows, feedback loops, review triggers |
+| 10 | **Marketing** | ✅ Fully Documented | **98** | Marketing automation and customer engagement tools. | HubSpot, Mailchimp, ActiveCampaign, LinkedIn | Lead generation, campaign automation, email workflows |
+| 11 | **Miscellaneous** | ✅ Fully Documented | **29** | Cross-functional or niche integrations for general automation. | Google Docs, Onfleet, OpenWeatherMap | Document creation, logistics, weather data |
+| 12 | **Productivity** | ✅ Fully Documented | **130** | Project, task, and productivity management tools. | Asana, Notion, Trello, ClickUp | Task tracking, reminders, workflow automation |
+| 13 | **Sales** | ✅ Fully Documented | **66** | CRM, e-commerce, and deal-tracking integrations. | Salesforce, HubSpot, Shopify, Pipedrive | Lead management, order fulfillment, customer pipelines |
+| 14 | **Utility** | ✅ Fully Documented | **65** | APIs for OCR, translation, link shortening, and file processing. | DeepL, AWS Textract, Bitly, CloudConvert | File parsing, language translation, document extraction |
+
+---
+
+📊 **Total Integrations:** 1,119  
+📦 **Categories Covered:** 14  
+🪄 **Status:** 8 Fully Documented • 6 Summaries in Progress
 
 ---
 
