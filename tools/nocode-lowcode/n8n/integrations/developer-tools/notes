@@ -1,0 +1,71 @@
+# 🧰 n8n Developer Tools Integrations (Summary)
+_As of **19 Oct 2025**, there are **4 integrations** in this category._
+
+---
+
+### 📚 Overview
+This category contains integrations built for **developers, API engineers, and IT administrators**.  
+They enhance workflows related to **API automation, identity management, and analytics** — improving productivity and collaboration for developer operations.
+
+---
+
+### 🔤 Alphabetical Summary
+
+- **ApiFlash** – Online API service to capture high-quality web page screenshots programmatically via API calls.  
+- **Gong** – Conversation analytics and sales-intelligence platform for recording, transcribing, and analyzing customer interactions.  
+- **LDAP** – Lightweight Directory Access Protocol integration for authenticating and managing users within enterprise environments.  
+- **Microsoft Entra ID** – Cloud-based identity and access-management solution enabling secure authentication for apps and users.
+
+---
+
+✅ **Total Integrations:** 4  
+💡 *For detailed descriptions, see `developer-tools-integrations.md` in this repository.*
+
+
+---
+
+# 🧰 n8n Developer Tools Integrations  
+_As of **19 Oct 2025**, there are **4 integrations** in this category._
+
+---
+
+## 📚 Overview
+The **Developer Tools** category includes integrations that assist developers, system administrators, and technical teams in **API testing, identity management, data capture, and workflow automation**.  
+These tools help streamline backend operations, authentication, and application performance analytics for modern development environments.
+
+---
+
+### ApiFlash Integration
+**ApiFlash**  
+ApiFlash is an online API service that enables developers to take high-quality screenshots of web pages via a simple API call.  
+It’s commonly used in automated testing, content verification, and monitoring workflows.  
+Developers can specify viewport sizes, delays, custom headers, and authentication for precise screenshot capture, making it ideal for integration with CI/CD pipelines and web archiving systems.
+
+---
+
+### Gong Integration
+**Gong**  
+Gong is a **conversation analytics and sales intelligence platform** designed to analyze communication data.  
+It records, transcribes, and evaluates calls, video meetings, and emails to deliver insights into sales team performance and customer engagement.  
+For developers and product teams, Gong provides APIs to automate call ingestion, analytics retrieval, and workflow integration into CRM systems.
+
+---
+
+### LDAP Integration
+**LDAP (Lightweight Directory Access Protocol)**  
+LDAP is a protocol used to access and maintain distributed directory information services.  
+This integration allows workflows to authenticate, query, and manage directory data from centralized sources such as Active Directory (AD) or OpenLDAP.  
+Developers use it for identity lookups, user provisioning, and access control automation within enterprise infrastructure.
+
+---
+
+### Microsoft Entra ID Integration
+**Microsoft Entra ID (formerly Azure Active Directory)**  
+Microsoft Entra ID is a **cloud-based identity and access management service** by Microsoft.  
+It provides secure single sign-on (SSO), user authentication, and application access control.  
+With n8n integration, developers can automate user lifecycle management, role assignments, and authentication workflows across hybrid cloud and SaaS applications.
+
+---
+
+✅ **Total Integrations:** 4  
+💡 *For summary view, see `developer-tools-integrations-summary.md`.*
