@@ -1,1 +1,72 @@
-todo
+# 🧩 n8n Miscellaneous Integrations  
+_As of **19 Oct 2025**, there are **29 integrations** in this category._
+
+---
+
+## 📚 Overview
+The **Miscellaneous** category includes a diverse set of integrations spanning **AI, productivity, logistics, monitoring, creative tools, and data APIs**.  
+These integrations extend n8n’s flexibility beyond traditional workflows — covering use cases like weather forecasting, translation, HR management, content creation, IoT control, and scientific data.
+
+---
+
+## 🔤 Alphabetical Summary (29 Integrations)
+
+| # | Integration | Description |
+|---|--------------|-------------|
+| 1 | **BambooHR** | HR management platform providing employee data analytics, self-service, and performance tracking. |
+| 2 | **DHL** | Shipment tracking integration that provides real-time delivery status and logistics data. |
+| 3 | **Figma Trigger (Beta)** | Starts workflows when new designs or updates occur in Figma projects. |
+| 4 | **Freshping** | Uptime monitoring tool that checks website and server availability and sends real-time alerts. |
+| 5 | **Google Books** | API to search and retrieve digital book information from Google’s extensive library. |
+| 6 | **Google Contacts** | Contact management service by Google that synchronizes user contacts across devices. |
+| 7 | **Google Docs** | Online word processor for collaborative document editing and storage in Google Workspace. |
+| 8 | **Home Assistant** | Open-source home automation platform for controlling smart devices locally and securely. |
+| 9 | **imgbb** | Image hosting platform for uploading, storing, and sharing images online easily. |
+|10| **Jina AI** | Open-source neural search framework for building multimodal (text, image, video) search apps. |
+|11| **LingvaNex** | Multilingual translation service supporting 112+ languages for users and developers. |
+|12| **Linkish** | Social bookmarking tool for managing and sharing tech-related links. |
+|13| **Marketplacer** | Platform to build, manage, and scale B2B and B2C digital marketplaces. |
+|14| **NASA** | Provides access to space, planetary, and satellite datasets through NASA APIs. |
+|15| **Onfleet** | Logistics management solution for last-mile delivery operations and real-time tracking. |
+|16| **Onfleet Trigger** | Starts workflows based on new deliveries, task updates, or driver events in Onfleet. |
+|17| **OpenWeatherMap** | Global weather API providing real-time forecasts, historical data, and climate analytics. |
+|18| **Order Desk** | Order management platform automating eCommerce fulfillment across multiple sales channels. |
+|19| **Philips Hue** | Smart lighting system integration to automate lights, scenes, and home ambiance. |
+|20| **Pinterest** | Visual discovery and idea-sharing platform for images, products, and designs. |
+|21| **RAWG Video Games Database** | Comprehensive database of video games with metadata like ratings, genres, and platforms. |
+|22| **RD Station CRM** | CRM platform for managing sales pipelines, customer interactions, and follow-ups. |
+|23| **Relink – URL Shortener** | Shortens URLs for easy sharing across social media or chat applications. |
+|24| **SimpleHash** | NFT data API offering details on collections, floor prices, and blockchain transactions. |
+|25| **Spotify** | Music streaming platform with APIs for playlists, tracks, and listening analytics. |
+|26| **StatusCake** | Monitors website uptime and performance with alerting and detailed analytics. |
+|27| **Totango** | Customer success platform with insights to enhance retention and engagement. |
+|28| **WatchSignals** | Real-time stock and market monitoring platform for investors and analysts. |
+|29| **Workable Trigger** | Recruitment software trigger node that starts workflows on new job postings or applicants. |
+
+---
+
+## 💡 Example n8n Workflows
+
+| Use Case | Description |
+|-----------|-------------|
+| **Smart Home Automation** | Combine **Home Assistant** and **Philips Hue** to schedule lights or adjust ambient color automatically. |
+| **AI Search Integration** | Use **Jina AI** to index and search multimedia content; trigger actions when new data is uploaded. |
+| **Translation Workflow** | Detect new text input → translate via **LingvaNex** → update translated results in **Google Docs**. |
+| **Weather-Based Automation** | Fetch forecasts from **OpenWeatherMap** → adjust thermostat or send alerts through **Slack**. |
+| **Delivery Monitoring** | Track **DHL** shipments or **Onfleet** tasks → update dashboard or send notifications to customers. |
+| **Content Bookmark Sync** | Save new **Pinterest** pins or **Linkish** bookmarks → append to **Google Sheets** or **Notion**. |
+| **Employee HR Sync** | Automate employee onboarding from **BambooHR** → create profiles in internal systems. |
+| **Marketplace Updates** | Use **Marketplacer** events to synchronize products with your eCommerce backend. |
+| **Gaming Insights** | Pull new game data from **RAWG API** → generate analytics reports → post to **Discord**. |
+| **Customer Retention Alerts** | Trigger **Totango** workflows when customer engagement drops below threshold. |
+
+---
+
+✅ **Category Summary**
+- **Total Integrations:** 29  
+- **Focus Areas:** AI • Data APIs • Home Automation • HR • Logistics • Monitoring • Media • Productivity  
+- **Updated:** 19 Oct 2025  
+
+---
+
+[⬆️ Back to Top](#-n8n-miscellaneous-integrations)
