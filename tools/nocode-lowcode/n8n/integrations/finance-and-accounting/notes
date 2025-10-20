@@ -1,0 +1,65 @@
+# 💰 n8n Finance & Accounting Integrations  
+_As of **19 Oct 2025**, there are **25 integrations** in this category._
+
+---
+
+## 📚 Overview
+The **Finance & Accounting** category empowers businesses, accountants, and developers to automate **billing, invoicing, payments, reporting, and financial data workflows** using n8n.  
+From global payment gateways like **Stripe** and **PayPal** to full-stack ERP and accounting suites such as **Xero** and **ERPNext**, these integrations help streamline every stage of financial operations.
+
+---
+
+## 🔢 Alphabetical Summary (25 Integrations)
+
+| # | Integration | Description |
+|---|--------------|-------------|
+| 1 | **Blockchain Exchange** | Decentralized digital trading platform enabling secure peer-to-peer transactions without intermediaries. |
+| 2 | **Brex** | Fintech platform offering corporate credit cards and expense management tools tailored for startups. |
+| 3 | **Chargebee** | Automates subscription billing, tax management, and revenue recognition for SaaS businesses. |
+| 4 | **Chargebee Trigger** | Starts n8n flows when new subscriptions or billing events occur in Chargebee. |
+| 5 | **ChargeOver** | Automates invoicing, payment tracking, and subscription management for growing businesses. |
+| 6 | **Chargify** | Subscription billing and revenue management platform for flexible recurring-revenue models. |
+| 7 | **CoinGecko** | Tracks cryptocurrency prices, market trends, and NFT values in real time for portfolio insights. |
+| 8 | **ERPNext** | Open-source ERP covering finance, HR, payroll, CRM, and manufacturing in one suite. |
+| 9 | **Helcim** | Payment processor offering transparent pricing and merchant services for small to mid-sized businesses. |
+|10| **Invoiced** | Automates billing and invoicing workflows with customizable templates and payment tracking. |
+|11| **Invoice Ninja** | Free, open-source invoicing solution for freelancers and SMBs with project tracking and vendor management. |
+|12| **Invoice Ninja Trigger** | Triggers workflows when invoices or payments are updated in Invoice Ninja. |
+|13| **Marketstack** | Provides real-time and historical stock market data via a simple RESTful API. |
+|14| **OPN (formerly Omise)** | Payment gateway for Southeast Asia enabling secure card and digital wallet transactions. |
+|15| **PayPal** | Global online payment service connecting buyers and sellers securely for e-commerce and freelance work. |
+|16| **PayPal Trigger** | Initiates n8n workflows when a PayPal payment or refund event occurs. |
+|17| **QuickBooks Online** | Cloud accounting software to manage invoices, expenses, and reports for small businesses. |
+|18| **ReCharge** | Simplifies subscription billing for e-commerce platforms and custom apps. |
+|19| **Stripe** | Developer-friendly payment processing platform powering millions of businesses worldwide. |
+|20| **Stripe Trigger** | Triggers workflows on new payments, disputes, or customer events in Stripe. |
+|21| **TD Ameritrade** | U.S. brokerage API providing market data, account insights, and trading automation. |
+|22| **Wise** | Low-fee, transparent international money-transfer service for individuals and businesses. |
+|23| **Wise Trigger** | Starts flows on new transfers, deposits, or account events in Wise. |
+|24| **Xero** | Cloud accounting platform for small businesses with 1,000+ app integrations. |
+|25| **Zoho Books** | Online accounting tool that automates invoicing, reconciliation, and tax management. |
+
+---
+
+## 💡 Example n8n Workflows
+
+| Use Case | Description |
+|-----------|-------------|
+| **Automated Invoice Delivery** | Generate invoices in **Invoice Ninja** or **QuickBooks**, then email clients and update Google Drive. |
+| **Subscription Billing Automation** | Sync **Chargebee** or **ReCharge** data with **Stripe** and update revenue dashboards. |
+| **Cross-Platform Accounting Sync** | Connect **Xero**, **ERPNext**, and **Zoho Books** for unified financial reporting. |
+| **Crypto Market Tracker** | Fetch daily prices from **CoinGecko** → Save in **Google Sheets** → Notify via Slack. |
+| **Expense & Payroll Integration** | Combine **Brex** or **Helcim** transactions with HR data for payroll validation. |
+| **FX & Payment Workflows** | Use **Wise** or **PayPal** triggers to record transfers automatically in **Xero**. |
+| **Stock Insights Automation** | Retrieve **Marketstack** data → Create BI report → Send summary to finance leads. |
+
+---
+
+✅ **Category Summary**
+- **Total Integrations:** 25  
+- **Focus Areas:** Payments • Invoicing • Accounting • Subscription Billing • Cryptocurrency • Market Data  
+- **Updated:** 19 Oct 2025  
+
+---
+
+[⬆️ Back to Top](#-n8n-finance--accounting-integrations)
