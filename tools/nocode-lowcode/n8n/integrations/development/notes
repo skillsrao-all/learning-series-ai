@@ -1,0 +1,312 @@
+# 💻 n8n Development Integrations  
+_As of **19 Oct 2025**, there are **256 integrations** in this category._
+
+---
+
+## 📚 Overview
+The **Development** category features integrations that empower developers, engineers, and DevOps professionals to **build, deploy, automate, and scale applications** efficiently.  
+This collection includes APIs, CI/CD tools, messaging brokers, testing frameworks, and cloud services that connect directly within **n8n** to streamline complex development workflows.
+
+---
+
+## 🔤 Alphabetical Summary (256 Integrations)
+
+| # | Integration | Description |
+|---|--------------|-------------|
+| 1 | **Abstract** | Provides APIs for email verification, IP lookup, and company enrichment to streamline development. |
+| 2 | **Acquire** | Customer engagement platform for integrating support and conversation automation within workflows. |
+| 3 | **Adobe** | Creative Cloud suite and APIs for design, digital media, and content automation. |
+| 4 | **AI Transform** | AI-driven data transformation and processing tool for developers. |
+| 5 | **Airbrake** | Error tracking and real-time monitoring for web and mobile apps. |
+| 6 | **Airtop** | Lightweight development utility for workflow automation and integration. |
+| 7 | **Alchemy** | Developer platform for Web3 applications with powerful blockchain APIs. |
+| 8 | **Alerty** | Push notification service for sending custom alerts to devices or apps. |
+| 9 | **AltText.ai** | AI tool that auto-generates image descriptions for accessibility. |
+| 10 | **Apiary** | API design and documentation platform for streamlined collaboration. |
+| 11 | **ApiFlash** | API for capturing high-quality webpage screenshots programmatically. |
+| 12 | **AWS Certificate Manager** | Provision and manage SSL/TLS certificates securely in AWS. |
+| 13 | **AWS Cognito** | Managed user authentication and authorization service for apps. |
+| 14 | **AWS Comprehend** | NLP service for detecting sentiment, entities, and topics in text. |
+| 15 | **AWS DynamoDB** | NoSQL database offering fast and predictable performance at scale. |
+| 16 | **AWS ELB** | Elastic Load Balancing to automatically distribute application traffic. |
+| 17 | **AWS IAM** | Identity and Access Management for controlling AWS permissions and roles. |
+| 18 | **AWS Lambda** | Serverless compute service that runs code in response to events. |
+| 19 | **AWS Rekognition** | Image and video analysis API for facial and object detection. |
+| 20 | **AWS S3** | Scalable object storage for data backup, archiving, and hosting. |
+| 21 | **AWS SES** | Email sending service for transactional and marketing messages. |
+| 22 | **AWS SNS** | Pub/Sub messaging for distributed systems and event notifications. |
+| 23 | **AWS SQS** | Simple Queue Service for asynchronous message processing. |
+| 24 | **AWS Transcribe** | Speech-to-text service to convert audio into readable transcripts. |
+| 25 | **Abstract** | API for email validation, geolocation, and data enrichment. |
+| 26 | **AMQP Sender** | Sends messages to queues using the Advanced Message Queuing Protocol. |
+| 27 | **AMQP Trigger** | Listens for incoming messages from AMQP-based brokers to start flows. |
+| 28 | **Bitbucket Trigger** | Detects repository changes or CI events to initiate n8n workflows. |
+| 29 | **Bitwarden** | Open-source password management integration for secure credentials. |
+| 30 | **BigML** | Machine-learning automation for classification, forecasting, and clustering. |
+| 31 | **BLOOCK** | Blockchain API for secure data anchoring on Ethereum. |
+| 32 | **Bot9** | Tool to create custom AI chat assistants for automation and support. |
+| 33 | **Botifier** | Framework for building and managing AI-driven bots and workflows. |
+| 34 | **Botium Box** | Testing suite for chatbots (similar to Selenium for Conversational AI). |
+| 35 | **Browserless** | Headless browser automation API for web task scripting and testing. |
+| 36 | **BrowserStack** | Cross-browser and cross-device testing platform for web apps. |
+| 37 | **BugBug** | Low-code browser testing automation for ensuring UI stability. |
+| 38 | **Bugfender** | Remote logging and error monitoring for mobile and desktop apps. |
+| 39 | **BugHerd** | Visual bug-tracking tool for web design feedback and QA management. |
+| 40 | **Bugpilot** | Captures screenshots and diagnostic details automatically from users. |
+| 41 | **BugReplay** | Records and replays browser sessions for debugging and issue tracking. |
+| 42 | **BugShot** | Lightweight bug detection tool for quick software testing. |
+| 43 | **Buildkite** | CI/CD platform for running secure pipelines on your own infrastructure. |
+| 44 | **Bubble** | No-code app builder for designing and launching web apps without coding. |
+| 45 | **Caspio** | Low-code cloud platform for custom database applications and forms. |
+| 46 | **ChatMasters** | Trainable AI bot builder integrating knowledge bases and CRMs. |
+| 47 | **Chatrace** | Multi-channel automation platform for sales, marketing, and support. |
+| 48 | **Chekhub** | Task and asset management system for checklists and operational flows. |
+| 49 | **CircleCI** | Continuous integration and delivery platform for automated testing and deployment. |
+| 50 | **Clarifai** | AI and computer vision platform for image, video, and text data processing. |
+| 51 | **Cloozo** | No-code chatbot creator powered by ChatGPT for multi-site integration. |
+| 52 | **Cloud 66** | DevOps automation platform for application deployment and management. |
+| 53 | **CloudBoost** | Serverless real-time database for building modern apps. |
+| 54 | **Cloudflare** | Security and performance platform offering DNS, CDN, and zero-trust services. |
+| 55 | **CloudShare** | Virtual IT lab environment for training, sales, and sandboxing. |
+| 56 | **Cockpit** | Open-source headless CMS for content management and distribution. |
+| 57 | **Code Climate** | Aggregates code quality metrics and test coverage for developers. |
+| 58 | **Codefresh** | Docker-native CI/CD platform for continuous delivery pipelines. |
+| 59 | **ConfigCat** | Feature flag and configuration management service for deployments. |
+| 60 | **Confluent** | Cloud-native Apache Kafka service for streaming data pipelines. |
+| 61 | **Contentful** | Headless CMS for creating, managing, and delivering digital content. |
+| 62 | **Cortex** | Security automation and threat analysis platform for SOC operations. |
+| 63 | **Cronly** | Cloud-based scheduler for monitoring and controlling cron jobs. |
+| 64 | **Crossmint** | API and SDK suite for NFT minting, payments, and custodial wallets. |
+
+---
+
+[⬆️ Back to Top](#-n8n-development-integrations) | ➡️ **Continue → Part 2 (#65 – #128)**
+## 🔤 Alphabetical Summary (continued)
+
+| # | Integration | Description |
+|---|--------------|-------------|
+| 65 | **CrateDB** | Distributed SQL database offering real-time analytics and scalability. |
+| 66 | **Cryptolens** | Software licensing and usage tracking platform for developers. |
+| 67 | **Customer.io** | Automated messaging platform for behavioral emails and notifications. |
+| 68 | **Customer.io Trigger** | Starts workflows based on Customer.io message or event data. |
+| 69 | **Data Soap** | Validates and cleans contact data such as phone numbers and emails. |
+| 70 | **Datadog** | Cloud monitoring and analytics platform for infrastructure and apps. |
+| 71 | **DebugHelper** | Developer utility for debugging, tracing, and workflow diagnostics. |
+| 72 | **DevCycle** | Feature-flag management platform for controlled software rollouts. |
+| 73 | **Diffy** | Visual regression testing tool comparing screenshots before/after UI changes. |
+| 74 | **Diddo AI** | Chatbot builder using ChatGPT for website conversational experiences. |
+| 75 | **DocuWriter** | AI-powered documentation generator for code and tests. |
+| 76 | **Droxy** | No-code builder for personal AI chatbots using uploaded knowledge. |
+| 77 | **Dynatrace** | Full-stack observability platform with AI-driven performance insights. |
+| 78 | **Eartho** | API layer for simplifying secure connectivity and online access management. |
+| 79 | **Eden AI** | Unified API aggregator offering access to multiple AI providers. |
+| 80 | **Elastic Security** | Threat detection and prevention suite built on the Elastic Stack. |
+| 81 | **Elasticsearch** | Distributed search and analytics engine for structured and unstructured data. |
+| 82 | **elmah.io** | Cloud logging and monitoring platform for .NET applications. |
+| 83 | **EmbedAI** | Lets you build ChatGPT-style assistants trained on your private data. |
+| 84 | **Engati** | Low-code chatbot platform supporting multiple messaging channels. |
+| 85 | **Evervault** | Encryption infrastructure enabling developers to protect sensitive data. |
+| 86 | **Evolphin Zoom** | Digital-asset management and collaboration platform for media teams. |
+| 87 | **Execution Data** | n8n internal node for tracking execution metrics and context. |
+| 88 | **Facebook Graph API** | API providing programmatic access to Facebook social graph data. |
+| 89 | **FileMaker** | Claris platform for rapid custom-app development and database integration. |
+| 90 | **Flagship** | Feature-flag management platform for controlled feature releases. |
+| 91 | **Flotiq** | API-first headless CMS ensuring reliable hosting and scalability. |
+| 92 | **Free Dictionary** | Dictionary API for retrieving definitions, synonyms, and translations. |
+| 93 | **FTP** | Transfers files between local and remote systems securely. |
+| 94 | **Function** | Executes JavaScript logic within n8n workflows. |
+| 95 | **Function Item** | Runs code on each input item for granular data processing. |
+| 96 | **Gali** | Custom AI chatbot creator leveraging GPT models for business automation. |
+| 97 | **GetScreenshot** | API for capturing website screenshots at scale. |
+| 98 | **Git** | Distributed version-control system for managing source code. |
+| 99 | **Gitea** | Lightweight self-hosted Git service for repositories and collaboration. |
+| 100 | **GitHub** | Source control and DevOps platform for automation and CI/CD workflows. |
+| 101 | **GitHub Trigger** | Starts workflows from commits, pull requests, or releases. |
+| 102 | **GitLab** | DevOps lifecycle platform unifying code, CI/CD, and monitoring. |
+| 103 | **GitLab Trigger** | Detects repository or pipeline events to initiate automation. |
+| 104 | **Gleap** | Collects user feedback and bug reports directly from web or mobile apps. |
+| 105 | **Gong** | Conversation-intelligence platform analyzing sales and meeting interactions. |
+| 106 | **Google BigQuery** | Serverless data warehouse for large-scale analytics. |
+| 107 | **Google Cloud** | Comprehensive suite of Google cloud services for computing and storage. |
+| 108 | **Google Cloud Storage** | RESTful cloud file storage combining security with scalability. |
+| 109 | **Grafana** | Visualization tool for metrics dashboards and time-series data. |
+| 110 | **GPTea** | Enables training of custom GPT models using internal data sources. |
+| 111 | **GraphQL** | Query language for APIs enabling flexible data retrieval. |
+| 112 | **Greip** | AI-powered payment-fraud detection and prevention tool. |
+| 113 | **Harry Potter API** | Public API exposing data on characters, spells, and houses. |
+| 114 | **HasData** | Web-scraping API that delivers site data in JSON without proxies. |
+| 115 | **Headless Testing** | Cloud browser testing for websites across real devices. |
+| 116 | **HeySummit** | Virtual-event hosting platform supporting ticketing and live sessions. |
+| 117 | **HTTP Request** | Node for making REST or GraphQL calls to external APIs. |
+| 118 | **Ideta** | Automation platform for chat, phone, and live-chatbot interactions. |
+| 119 | **Impira** | AI-driven data-entry automation and document-processing platform. |
+| 120 | **InfoLobby** | Cloud-based database app with fast, secure, and automated features. |
+| 121 | **Instabug** | Mobile-app bug reporting, crash tracking, and in-app surveys. |
+| 122 | **IntakeQ** | HIPAA-compliant digital intake and e-signature form solution. |
+| 123 | **IP2Location** | Identifies geographic data of IP addresses for analytics and security. |
+| 124 | **IPInfo** | Provides IP geolocation, ASN, and company data through simple API. |
+| 125 | **Ipregistry** | Threat-aware IP geolocation service with real-time intelligence. |
+| 126 | **Jama** | Product-development platform for requirements and risk management. |
+| 127 | **Jenkins** | Open-source automation server for continuous integration pipelines. |
+| 128 | **Jira Software** | Agile project-management tool for issue tracking and sprint planning. |
+
+---
+
+[⬆️ Back to Top](#-n8n-development-integrations) | ➡️ **Continue → Part 3 (#129 – #192)**
+
+## 🔤 Alphabetical Summary (continued)
+
+| # | Integration | Description |
+|---|--------------|-------------|
+| 129 | **Jira Trigger** | Executes workflows upon issue updates, comments, or transitions in Jira. |
+| 130 | **JWT** | JSON Web Token utility for secure authentication and token-based workflows. |
+| 131 | **Kadoa** | Automates web data extraction and converts structured data efficiently. |
+| 132 | **Kafka** | Distributed event-streaming platform for real-time data pipelines. |
+| 133 | **Kafka Trigger** | Starts workflows on new messages from Kafka topics. |
+| 134 | **Keygen** | API for generating and managing secure software license keys. |
+| 135 | **KEYZY** | Software monetization platform for licensing and payment control. |
+| 136 | **Knack** | No-code database builder for creating business applications. |
+| 137 | **KoBoToolbox** | Data collection app for surveys, forms, and offline submissions. |
+| 138 | **KoBoToolbox Trigger** | Triggers workflows from form submissions or survey completions. |
+| 139 | **Ldap** | Lightweight Directory Access Protocol node for directory lookups and access control. |
+| 140 | **LambdaTest** | Cross-browser testing platform on 3000+ browsers and OS combinations. |
+| 141 | **Landbot** | Drag-and-drop chatbot builder for websites and messaging apps. |
+| 142 | **LaunchDarkly** | Feature management platform enabling safe feature rollouts. |
+| 143 | **Libraria** | AI assistant designer for creating digital chat and help bots. |
+| 144 | **Lighthouse** | Open-source audit tool for web performance, SEO, and accessibility. |
+| 145 | **Localazy** | Localization automation platform simplifying multi-language content updates. |
+| 146 | **LoginRadius** | Identity management platform for secure customer authentication. |
+| 147 | **Lokalise** | Collaborative localization and translation management platform. |
+| 148 | **Lucidchart** | Visual workspace for creating diagrams, flowcharts, and system architectures. |
+| 149 | **Mailgun** | API-based email delivery and analytics service for developers. |
+| 150 | **Mailjet** | Email marketing and transactional platform for businesses. |
+| 151 | **Mailjet Trigger** | Executes workflows on email events like delivery or bounce. |
+| 152 | **Mandrill** | Mailchimp add-on for transactional and triggered email delivery. |
+| 153 | **Marcom Robot** | Data quality engine improving lead enrichment and conversion rates. |
+| 154 | **Metabase** | Open-source BI tool for dashboards and data visualization. |
+| 155 | **Metatext.AI Inference API** | API for leveraging Metatext AI for text understanding and generation. |
+| 156 | **Microsoft Dynamics 365 Business Central API** | Interface for integrating and extending Business Central functionality. |
+| 157 | **Microsoft Entra ID** | Identity and access management platform for authentication and SSO. |
+| 158 | **Microsoft Graph Security** | Unified API to interact with Microsoft security products and alerts. |
+| 159 | **Microsoft OneDrive** | Cloud storage service for secure file hosting and synchronization. |
+| 160 | **Microsoft OneDrive Trigger** | Initiates workflows when files are created, updated, or deleted. |
+| 161 | **Microsoft SQL** | Enterprise-grade relational database for structured data management. |
+| 162 | **MISP** | Threat intelligence sharing platform for cybersecurity operations. |
+| 163 | **MongoDB** | NoSQL database for scalable, document-oriented data storage. |
+| 164 | **MQTT** | Lightweight messaging protocol for IoT devices and applications. |
+| 165 | **MQTT Trigger** | Subscribes to topics to process incoming IoT messages automatically. |
+| 166 | **MSG91** | Global SMS and OTP verification API for secure communication. |
+| 167 | **MySQL** | Open-source RDBMS for structured data management and retrieval. |
+| 168 | **n8n** | Workflow automation engine enabling low-code integration between systems. |
+| 169 | **Nanonets OCR** | AI-powered OCR tool extracting data from scanned documents. |
+| 170 | **ncScale** | Monitors and audits no-code tools for better governance and reliability. |
+| 171 | **Netlify** | Platform for building and deploying modern web apps and static sites. |
+| 172 | **Netlify Trigger** | Starts workflows on new site builds, deploys, or form submissions. |
+| 173 | **Netscaler ADC** | Application delivery controller for performance, security, and availability. |
+| 174 | **Nightfall.ai** | AI data-protection platform for detecting and redacting sensitive data. |
+| 175 | **Ninox** | Low-code database platform for creating and managing business apps. |
+| 176 | **NMKR** | NFT creation and sales platform on the Cardano blockchain. |
+| 177 | **Nozbe Teams** | Collaboration and project management platform for team productivity. |
+| 178 | **npm** | Node.js package manager for installing and managing dependencies. |
+| 179 | **Nuclia** | AI engine for searching unstructured data across multiple formats. |
+| 180 | **Nyckel** | Machine-learning API for instant custom classification model deployment. |
+| 181 | **OffAlerts** | Uptime monitoring service that sends alerts via email and SMS. |
+| 182 | **Ollama** | Local LLM inference platform for AI text generation and embeddings. |
+| 183 | **Omeda** | Audience data management platform for segmentation and engagement. |
+| 184 | **One AI** | API for processing, summarizing, and analyzing text data via NLP. |
+| 185 | **OpenAI** | Suite of AI models including GPT, DALL·E, and Whisper for automation. |
+| 186 | **OpenCTI** | Open-source cyber threat intelligence management platform. |
+| 187 | **PagerDuty** | Incident response and digital-operations platform for IT and DevOps. |
+| 188 | **ParseHub** | Visual web-scraping tool that extracts data without coding. |
+| 189 | **ParsePrompt** | AI tool that extracts and summarizes information from multimedia inputs. |
+| 190 | **Passcreator** | Tool for creating Apple and Google Wallet passes for digital use. |
+| 191 | **Passslot** | Platform for building and distributing mobile wallet passes. |
+| 192 | **Peakalink** | API providing smart link previews and metadata extraction. |
+
+---
+
+[⬆️ Back to Top](#-n8n-development-integrations) | ➡️ **Continue → Part 4 (#193 – #256)**
+
+## 🔤 Alphabetical Summary (continued)
+
+| # | Integration | Description |
+|---|--------------|-------------|
+| 193 | **Pexels** | Free stock photo and video API for creative content sourcing. |
+| 194 | **Phantombuster** | Automation platform for data scraping and social media workflows. |
+| 195 | **Pipedream** | Integration platform for event-driven workflows and API connections. |
+| 196 | **Pipeline CRM** | Customer relationship management tool for sales automation. |
+| 197 | **Pivotal Tracker** | Agile project management tool for software development teams. |
+| 198 | **Plasmic** | Visual builder that integrates with codebases for UI and design systems. |
+| 199 | **Plumsail Documents** | Document generation API for PDFs, Word, and templates. |
+| 200 | **PostBin** | Tool for capturing and testing webhook and API requests. |
+| 201 | **PostgREST** | Instant RESTful API generator for PostgreSQL databases. |
+| 202 | **PostgreSQL** | Advanced open-source relational database system. |
+| 203 | **PostHog** | Product analytics suite for event tracking and feature experimentation. |
+| 204 | **Prismic** | Headless CMS for managing and delivering content via API. |
+| 205 | **Pub/Sub** | Messaging system for asynchronous event-driven communication. |
+| 206 | **Pusher** | API for building real-time communication and live data features. |
+| 207 | **Python** | Enables running Python code and scripts directly in workflows. |
+| 208 | **Qdrant** | Vector search engine for semantic search and AI applications. |
+| 209 | **QRadar** | IBM’s SIEM platform for centralized log and threat analysis. |
+| 210 | **Qualys** | Cloud-based vulnerability management and compliance platform. |
+| 211 | **QuintaDB** | Online database app builder with drag-and-drop form creation. |
+| 212 | **RabbitMQ** | Open-source message broker for reliable message queuing. |
+| 213 | **Radix** | Serverless computing platform for deploying scalable web services. |
+| 214 | **Rapid7 InsightVM** | Vulnerability management tool offering real-time risk visibility. |
+| 215 | **Raygun** | Error monitoring and performance tracking for applications. |
+| 216 | **ReadMe** | Developer hub for building interactive API documentation portals. |
+| 217 | **Redis** | In-memory key-value data store used for caching and fast lookups. |
+| 218 | **Redis Trigger** | Listens for published events on Redis channels to trigger workflows. |
+| 219 | **Replit** | Collaborative browser-based IDE for writing and deploying code. |
+| 220 | **Resend** | Transactional email API designed for developers and SaaS teams. |
+| 221 | **Retable** | Collaborative spreadsheet and database platform for data organization. |
+| 222 | **Rundeck** | Runbook automation platform for orchestration and job scheduling. |
+| 223 | **Salesforce** | CRM platform for sales, service, and marketing automation. |
+| 224 | **Sanity** | Headless CMS and structured content platform for developers. |
+| 225 | **Scaleway** | European cloud infrastructure provider for compute and storage. |
+| 226 | **Scrape.do** | Web-scraping proxy API that bypasses blocks and captchas. |
+| 227 | **Sekoia** | Security automation platform with real-time threat intelligence. |
+| 228 | **Semaphore** | CI/CD service for automated testing and deployments. |
+| 229 | **Sentry** | Application performance and error monitoring for developers. |
+| 230 | **ServerPilot** | Server management platform for hosting PHP applications. |
+| 231 | **Shuffler** | Workflow automation for Jupyter notebooks and data pipelines. |
+| 232 | **SimpleLocalize** | Translation management tool for localization workflows. |
+| 233 | **Slack API** | Messaging API enabling bots, alerts, and workflow notifications. |
+| 234 | **Snyk** | Developer security platform for finding and fixing vulnerabilities. |
+| 235 | **SonarQube** | Code quality and security analysis platform for CI/CD pipelines. |
+| 236 | **Sourcegraph** | Universal code search platform for repositories and monorepos. |
+| 237 | **Specter** | Alternative data analytics platform delivering financial insights. |
+| 238 | **Spike** | Incident alerting and on-call scheduling platform for engineering teams. |
+| 239 | **Splunk** | Data analytics and monitoring solution for security and operations. |
+| 240 | **SQL Server** | Microsoft’s enterprise-grade relational database engine. |
+| 241 | **Stackby** | Collaborative database tool combining spreadsheets and APIs. |
+| 242 | **Strapi** | Open-source headless CMS for managing content across platforms. |
+| 243 | **Supabase** | Firebase alternative providing database, auth, and storage APIs. |
+| 244 | **SwaggerHub** | Platform for designing, documenting, and managing REST APIs. |
+| 245 | **Swetrix** | Privacy-focused analytics platform for modern web applications. |
+| 246 | **Syncly** | AI-driven tool that categorizes and analyzes customer feedback data. |
+| 247 | **Talend Cloud API Services** | Data integration and API management platform. |
+| 248 | **Trello** | Visual project management board for tracking tasks and workflows. |
+| 249 | **Trellix ePO** | Centralized endpoint security management from McAfee. |
+| 250 | **Twilio** | Communication APIs for SMS, voice, and programmable messaging. |
+| 251 | **Typeform** | Interactive form and survey builder for user engagement. |
+| 252 | **Unleashed Software** | Inventory management and stock-control system for businesses. |
+| 253 | **UptimeRobot** | Website uptime and downtime monitoring API. |
+| 254 | **VirusTotal** | Aggregates antivirus and URL scanning engines for threat analysis. |
+| 255 | **Visual Studio Code** | Popular lightweight source-code editor supporting extensions. |
+| 256 | **Zabbix** | Open-source monitoring software for servers, networks, and applications. |
+
+---
+
+## 🏁 Summary
+**Total integrations:** 256  
+**Category:** Development  
+**Updated:** 19 Oct 2025  
+
+These integrations empower developers to connect APIs, automate DevOps tasks, monitor infrastructure, and streamline the software lifecycle — all within **n8n**.
+
+---
+
+[⬆️ Back to Top](#-n8n-development-integrations)
+
+  
