@@ -1,0 +1,650 @@
+# 💾 n8n Data & Storage Integrations (Summary)
+_As of **19 Oct 2025**, there are **101 integrations** in this category._
+
+---
+
+### 📚 Overview
+These integrations focus on **data collection, management, storage, and database operations** — including spreadsheets, cloud drives, and both SQL and NoSQL databases.  
+They support automation of workflows for **data synchronization, real-time analytics, backups, and collaboration**.
+
+---
+
+### 🔤 Alphabetical Summary
+
+- **AccurAI** – Automates document processing with AI for improved business efficiency.  
+- **Adalo** – No-code app builder for creating custom web and mobile applications.  
+- **Airparser** – Extracts and analyzes aviation flight data for investigation and performance review.  
+- **Airtable** – Hybrid spreadsheet-database platform for collaboration and data management.  
+- **Airtable Trigger** – Initiates workflows on Airtable record or table changes.  
+- **AITable.ai** – AI-powered spreadsheet interface for project and client management.  
+- **Alphamoon** – AI solution that automates document processing and classification.  
+- **ApptiveGrid** – Visual no-code database builder combining spreadsheet and API functionality.  
+- **Autom** – Provides a fast SERP API for retrieving Google search results instantly.  
+- **AWS DynamoDB** – Managed NoSQL database for scalable, high-performance applications.  
+- **AWS S3** – Object storage service for secure, scalable cloud data storage.  
+- **Azure Cosmos DB** – Distributed NoSQL database for high availability and global scalability.  
+- **Azure Storage** – Scalable cloud storage for structured and unstructured data.  
+- **Baserow** – Open-source no-code database platform for organizing business data.  
+- **Bitwarden** – Secure, open-source password manager for encrypting credentials.  
+- **Box** – Enterprise-grade cloud storage and collaboration platform.  
+- **Box Trigger** – Triggers workflows based on file updates or uploads in Box.  
+- **Clappia** – Enables businesses to create custom workplace apps without coding.  
+- **Cradl AI** – Automates document workflows using AI with optional human validation.  
+- **CraftDraft** – AI-powered chatbot builder for enhancing customer interactions.  
+- **CrateDB** – High-performance distributed SQL database for real-time analytics.  
+- **CustomerIQ** – Centralized AI-driven platform for collecting and analyzing customer feedback.  
+- **Domo** – Business intelligence and visualization platform for real-time data insights.  
+- **Dropbox** – Cloud-based storage service for file sharing and synchronization.  
+- **Elasticsearch** – Distributed search and analytics engine for high-volume data indexing.  
+- **ERPNext** – Open-source ERP system for business process management and automation.  
+- **FileMaker** – Low-code platform for building data-driven applications securely.  
+- **Fusioo** – Online database creator for storing and managing business data.  
+- **Google BigQuery** – Enterprise-scale cloud data warehouse for analytics and reporting.  
+- **Google Cloud Firestore** – Scalable NoSQL database for mobile and web apps.  
+- **Google Cloud Realtime Database** – Real-time synchronized database storing JSON data.  
+- **Google Cloud Storage** – Object storage with advanced scalability and performance.  
+- **Google Drive** – Cloud file storage and sharing service from Google.  
+- **Google Drive Trigger** – Detects file events in Google Drive to automate actions.  
+- **Google Sheets** – Online spreadsheet for real-time collaboration and automation.  
+- **Google Sheets Trigger** – Launches workflows on spreadsheet data updates.  
+- **Google Tables** – Team task automation and data tracking platform.  
+- **GraphQL** – Query language for APIs enabling flexible, efficient data retrieval.  
+- **Grist** – Combined spreadsheet and database for collaborative data management.  
+- **Grid** – Streamlines data collection to enhance productivity and workflow tracking.  
+- **Hansei** – AI platform for querying business data through natural-language questions.  
+- **IndustrySelect** – B2B data and analytics tool for the industrial sector.  
+- **InfluxDB Cloud** – Managed time-series database for real-time analytics and visualization.  
+- **InfoLobby** – Cloud-based database with built-in automation capabilities.  
+- **Knack** – Low-code platform for building custom online databases and business tools.  
+- **KoBoToolbox** – Open-source survey and data-collection system supporting offline use.  
+- **Marcom Robot** – B2B data-quality and enrichment platform for marketing operations.  
+- **Metabase** – Open-source BI platform for dashboards and data exploration.  
+- **Microsoft Excel 365** – Industry-standard spreadsheet for analytics and reporting.  
+- **Microsoft OneDrive** – Cloud file hosting and synchronization by Microsoft.  
+- **Microsoft OneDrive Trigger** – Activates flows upon file updates in OneDrive.  
+- **Microsoft SQL** – Enterprise relational database with robust data management.  
+- **MongoDB** – NoSQL document database optimized for flexibility and scalability.  
+- **Morph** – AI-augmented spreadsheet-database hybrid for smarter data handling.  
+- **MySQL** – Widely used open-source relational database for structured data.  
+- **Nextcloud** – Self-hosted file sharing and collaboration suite for enterprises.  
+- **Ninox** – Low-code database and app development tool for custom workflows.  
+- **NocoDB** – Turns any relational database into a spreadsheet-style interface.  
+- **Nuclia** – AI engine for searching and analyzing unstructured data (audio, video, text).  
+- **Odoo** – Open-source ERP for finance, CRM, and operations automation.  
+- **Omeda** – Audience management and engagement platform for data-driven marketing.  
+- **On2Air** – Enhances Airtable with extended automation and integration tools.  
+- **ParsePrompt** – Extracts and summarizes large-scale content from files and web sources.  
+- **Persio** – Centralizes and automates customer data and lead qualification.  
+- **Pitchly** – Transforms business data into reusable content assets and presentations.  
+- **PostBin** – Captures and inspects API and webhook requests for testing.  
+- **Postgres** – Advanced open-source object-relational database.  
+- **Quick Base** – Low-code platform for creating and managing custom business applications.  
+- **QuintaDB** – Online database and CRM builder with drag-and-drop customization.  
+- **Redis** – In-memory data structure store for caching and real-time applications.  
+- **Retable** – Collaborative spreadsheet platform for organizing team data.  
+- **S3** – Cloud-based object storage with fine-grained access control.  
+- **Sales.Rocks** – B2B sales intelligence tool for accessing global company data.  
+- **SeaTable** – Collaborative online database with spreadsheet UI.  
+- **Snowflake** – Cloud-based data warehouse for advanced analytics.  
+- **Solve Data** – Simplifies internal data organization and access management.  
+- **Specter** – Provider of alternative business data insights and analytics.  
+- **Stackby** – Collaborative spreadsheet-database hybrid for managing projects and data.  
+- **Storyblok** – Headless CMS for creating, managing, and storing digital content.  
+- **Strapi** – Open-source headless CMS for flexible API-based content delivery.  
+- **Supabase** – Open-source backend service providing database, auth, and storage.  
+- **The Customer Factor** – CRM platform for managing contacts, appointments, and billing.  
+- **TiDB Cloud** – Fully-managed MySQL-compatible hybrid analytical/transactional database.  
+- **Timetonic** – Visual collaboration and communication app with database integration.  
+- **TimescaleDB** – PostgreSQL-based time-series database for analytical workloads.  
+- **Token Metrics** – Crypto analytics and AI-driven trading data platform.  
+- **TrackVia** – Low-code workflow management app for process automation.  
+- **Trevor.io** – Enables teams to query and visualize live database data.  
+- **Unleashed Software** – Real-time inventory management and business analytics platform.  
+- **uProc** – Data enrichment and optimization platform for B2B operations.  
+- **Xtractly** – AI-powered email parsing tool for extracting structured data.
+
+---
+
+✅ **Total Integrations:** 101  
+💡 *For detailed descriptions, see `data-and-storage-integrations.md` in this repository.*
+
+
+---
+
+# 💾 n8n Data & Storage Integrations  
+_As of **19 Oct 2025**, there are **101 integrations** in this category._
+
+---
+
+## 📚 Overview
+The **Data & Storage** category covers integrations for **databases, spreadsheets, storage, and backend services**.  
+These tools help automate data collection, transformation, storage, and retrieval — empowering workflows that rely on structured, unstructured, and time-series data at scale.
+
+---
+
+### Google Sheets Integration
+**Google Sheets**  
+Google Sheets is a web-based spreadsheet application from Google. It offers cloud accessibility, collaboration, and automation across devices for individuals and teams.
+
+---
+
+### Airtable Integration
+**Airtable**  
+Airtable combines the simplicity of a spreadsheet with the power of a database. It enables teams to connect and synchronize data, projects, and workflows in real time.
+
+---
+
+### Google Drive Integration
+**Google Drive**  
+Google Drive provides cloud storage and file synchronization, allowing users to store, access, and share files securely from any device.
+
+---
+
+### Microsoft Excel 365 Integration
+**Microsoft Excel 365**  
+Microsoft Excel is the industry standard for spreadsheets and data analysis. Part of Microsoft 365, it supports advanced formulas, charts, and automation features.
+
+---
+
+### Supabase Integration
+**Supabase**  
+Supabase is an open-source Firebase alternative providing backend tools — authentication, real-time database, and file storage — for modern applications.
+
+---
+
+### Postgres Integration
+**PostgreSQL**  
+PostgreSQL is an advanced open-source object-relational database emphasizing extensibility, high performance, and SQL compliance.
+
+---
+
+### MySQL Integration
+**MySQL**  
+MySQL is an open-source relational database management system used globally for scalable, reliable data storage and processing in applications.
+
+---
+
+### MongoDB Integration
+**MongoDB**  
+MongoDB is a NoSQL document-oriented database optimized for scalability and flexibility. It is widely used for modern applications and analytics.
+
+---
+
+### Microsoft SQL Integration
+**Microsoft SQL Server**  
+SQL Server by Microsoft is a relational database system offering high performance, security, and data management capabilities for enterprise workloads.
+
+---
+
+### GraphQL Integration
+**GraphQL**  
+GraphQL is a query language for APIs that lets clients request specific data, improving efficiency and flexibility compared to REST APIs.
+
+---
+
+### Baserow Integration
+**Baserow**  
+Baserow is an open-source no-code database platform that enables users to build, manage, and share data-driven applications without technical expertise.
+
+---
+
+### Redis Integration
+**Redis**  
+Redis is a high-performance in-memory data store, often used as a cache, message broker, or real-time analytics engine for rapid data access.
+
+---
+
+### AWS S3 Integration
+**Amazon S3 (Simple Storage Service)**  
+Amazon S3 offers object storage for scalable, secure, and durable data archiving, analytics, and backup across the cloud.
+
+---
+
+### Airtable Trigger Integration
+**Airtable Trigger**  
+Enables workflows to respond instantly to Airtable data updates or record changes in real time.
+
+---
+
+### Nextcloud Integration
+**Nextcloud**  
+Nextcloud is an open-source, self-hosted collaboration and storage suite offering secure file sharing and on-premises cloud capabilities.
+
+---
+
+### Google Drive Trigger Integration
+**Google Drive Trigger**  
+Activates workflows upon file creation, modification, or sharing events within Google Drive.
+
+---
+
+### NocoDB Integration
+**NocoDB**  
+NocoDB converts relational databases into collaborative spreadsheet interfaces, providing an open-source, no-code alternative to Airtable.
+
+---
+
+### Dropbox Integration
+**Dropbox**  
+Dropbox provides cloud-based storage and synchronization, allowing secure file sharing and collaboration across devices.
+
+---
+
+### Google Cloud Firestore Integration
+**Google Cloud Firestore**  
+Firestore is a scalable, real-time NoSQL database for mobile, web, and server apps — part of Google Cloud and Firebase.
+
+---
+
+### Elasticsearch Integration
+**Elasticsearch**  
+Elasticsearch is a distributed search and analytics engine designed for fast indexing, search, and visualization of massive data volumes.
+
+---
+
+### Google BigQuery Integration
+**Google BigQuery**  
+BigQuery is Google’s enterprise data warehouse for analytics at petabyte scale, supporting complex SQL queries and AI-driven insights.
+
+---
+
+### Microsoft OneDrive Integration
+**Microsoft OneDrive**  
+OneDrive is Microsoft’s cloud file hosting service that allows users to store, sync, and share files securely across devices.
+
+---
+
+### Odoo Integration
+**Odoo**  
+Odoo is an open-source ERP system that integrates CRM, sales, finance, and inventory data, offering full visibility into business operations.
+
+---
+
+### SeaTable Integration
+**SeaTable**  
+SeaTable is a collaborative online database with a spreadsheet-like interface for managing structured data flexibly.
+
+---
+
+### AWS DynamoDB Integration
+**AWS DynamoDB**  
+Amazon DynamoDB is a managed NoSQL database providing high performance, scalability, and reliability for modern applications.
+
+---
+
+### Snowflake Integration
+**Snowflake**  
+Snowflake delivers a fully-managed cloud data warehouse for storing, processing, and analyzing structured and semi-structured data.
+
+---
+
+### Grist Integration
+**Grist**  
+Grist merges database and spreadsheet capabilities into one collaborative, flexible tool for dynamic data management.
+
+---
+
+### Strapi Integration
+**Strapi**  
+Strapi is an open-source headless CMS for managing and delivering digital content via API, suitable for apps, e-commerce, and enterprise systems.
+
+---
+
+### ERPNext Integration
+**ERPNext**  
+ERPNext is a free, open-source ERP platform covering accounting, HR, CRM, manufacturing, and more, simplifying business process management.
+
+---
+
+### Metabase Integration
+**Metabase**  
+Metabase is a user-friendly analytics and BI tool for visualizing and exploring data through interactive dashboards.
+
+---
+
+### FileMaker Integration
+**Claris FileMaker**  
+FileMaker offers low-code application development, enabling teams to build data-driven apps with built-in templates and secure hosting.
+
+---
+
+### Google Cloud Realtime Database Integration
+**Google Cloud Realtime Database**  
+A cloud-hosted NoSQL database that synchronizes JSON data across clients in real time.
+
+---
+
+### Box Integration
+**Box**  
+Box provides enterprise-grade file storage, sharing, and collaboration with advanced security and compliance capabilities.
+
+---
+
+### uProc Integration
+**uProc**  
+uProc offers B2B data optimization and enrichment services to improve marketing and sales efficiency through automation.
+
+---
+
+### TimescaleDB Integration
+**TimescaleDB**  
+TimescaleDB is a PostgreSQL-based database optimized for time-series data, combining SQL with scalability and high ingest speed.
+
+---
+
+### QuestDB Integration
+**QuestDB**  
+QuestDB is an ultra-fast, open-source time-series database offering SQL support and real-time analytics.
+
+---
+
+### Google Cloud Storage Integration
+**Google Cloud Storage**  
+A RESTful object storage service providing secure, scalable storage for structured and unstructured data on Google Cloud.
+
+---
+
+### PostBin Integration
+**PostBin**  
+PostBin allows developers to test API clients and webhooks by capturing and inspecting HTTP requests sent to specific endpoints.
+
+---
+
+### Adalo Integration
+**Adalo**  
+Adalo is a no-code app builder enabling creators to design, customize, and launch web and mobile apps easily.
+
+---
+
+### Quick Base Integration
+**Quick Base**  
+Quick Base is a low-code cloud platform for building custom business apps that streamline workflows and centralize data.
+
+---
+
+### Bitwarden Integration
+**Bitwarden**  
+Bitwarden is an open-source password manager that encrypts and secures credentials across users and organizations.
+
+---
+
+### CrateDB Integration
+**CrateDB**  
+CrateDB is a distributed SQL database optimized for real-time analytics across large datasets with scalability and search capabilities.
+
+---
+
+### KoBoToolbox Integration
+**KoBoToolbox**  
+KoBoToolbox is an open-source data collection tool for field surveys, supporting offline form completion and cloud-based analysis.
+
+---
+
+### Stackby Integration
+**Stackby**  
+Stackby blends spreadsheet simplicity with database flexibility for managing data, projects, and team collaboration.
+
+---
+
+### Storyblok Integration
+**Storyblok**  
+Storyblok is a headless CMS that supports content creation, collaboration, and omnichannel publishing for enterprises.
+
+---
+
+### Unleashed Software Integration
+**Unleashed Software**  
+Unleashed provides real-time inventory management and business insights through cloud-based ERP and analytics tools.
+
+---
+
+### AccurAI Integration
+**AccurAI**  
+AccurAI uses machine learning to automate document processing, enhancing efficiency and reducing manual workload.
+
+---
+
+### Airparser Integration
+**Airparser**  
+Airparser collects and analyzes flight data recorder outputs for aviation investigations and performance reviews.
+
+---
+
+### AITable.ai Integration
+**AITable.ai**  
+AITable.ai offers spreadsheet-based project and client management with embedded AI-powered data organization.
+
+---
+
+### Alphamoon Integration
+**Alphamoon**  
+Alphamoon leverages AI for intelligent document processing, automating data extraction and classification.
+
+---
+
+### ApptiveGrid Integration
+**ApptiveGrid**  
+ApptiveGrid combines spreadsheets and databases into one visual, API-driven workspace for building custom workflows.
+
+---
+
+### Autom Integration
+**Autom**  
+Autom provides a lightning-fast SERP API that retrieves Google search results quickly for automation and analytics use.
+
+---
+
+### Azure Cosmos DB Integration
+**Azure Cosmos DB**  
+Azure Cosmos DB is Microsoft’s globally distributed NoSQL database for highly available and scalable applications.
+
+---
+
+### Azure Storage Integration
+**Azure Storage**  
+Azure Storage provides scalable, secure cloud storage solutions for structured, unstructured, and archival data.
+
+---
+
+### Clappia Integration
+**Clappia**  
+Clappia enables non-technical users to build custom workplace apps in the cloud without coding, streamlining business operations.
+
+---
+
+### Cradl AI Integration
+**Cradl AI**  
+Cradl AI automates document workflow processing with AI, supporting both fully automated and human-reviewed operations.
+
+---
+
+### CustomerIQ Integration
+**CustomerIQ**  
+CustomerIQ consolidates and analyzes customer feedback using AI to derive insights and improve user experiences.
+
+---
+
+### Domo Integration
+**Domo**  
+Domo provides cloud-based data visualization and BI tools for organizations to analyze, share, and act on business data.
+
+---
+
+### Fusioo Integration
+**Fusioo**  
+Fusioo allows teams to create personalized online databases for managing operations, projects, and organizational information.
+
+---
+
+### Google Tables Integration
+**Google Tables**  
+Google Tables automates team task management, improving efficiency and collaboration via data-driven workflows.
+
+---
+
+### Grid Integration
+**Grid**  
+Grid boosts productivity by simplifying data collection and transformation for business and research use cases.
+
+---
+
+### Hansei Integration
+**Hansei**  
+Hansei is an AI-powered question-answering platform for querying internal databases and retrieving contextual insights.
+
+---
+
+### IndustrySelect Integration
+**IndustrySelect**  
+IndustrySelect provides industrial sector data for B2B marketing, sales prospecting, and recruitment analytics.
+
+---
+
+### InfluxDB Cloud Integration
+**InfluxDB Cloud**  
+InfluxDB Cloud is a managed time-series database for high-performance data ingestion, visualization, and analysis.
+
+---
+
+### InfoLobby Integration
+**InfoLobby**  
+InfoLobby delivers a cloud-based database platform with automation capabilities for secure and flexible data handling.
+
+---
+
+### Knack Integration
+**Knack**  
+Knack simplifies the creation of custom databases and applications for business data management without coding.
+
+---
+
+### Marcom Robot Integration
+**Marcom Robot**  
+Marcom Robot provides data-quality tools to clean, enrich, and validate marketing and sales databases for better conversions.
+
+---
+
+### Ninox Integration
+**Ninox**  
+Ninox is a low-code platform for building business applications and custom workflows using an intuitive drag-and-drop interface.
+
+---
+
+### Nuclia Integration
+**Nuclia**  
+Nuclia uses AI to search through unstructured data (audio, video, images, documents) with transcription and OCR support.
+
+---
+
+### Omeda Integration
+**Omeda**  
+Omeda helps businesses manage audience engagement, segmentation, and communication through a centralized platform.
+
+---
+
+### On2Air Integration
+**On2Air**  
+On2Air extends Airtable functionality with automation, backup, and integration tools to optimize productivity.
+
+---
+
+### ParsePrompt Integration
+**ParsePrompt**  
+ParsePrompt extracts and summarizes data from audio, PDFs, videos, and web sources using AI-based content parsing.
+
+---
+
+### Persio Integration
+**Persio**  
+Persio unifies customer data and automates lead qualification through AI-driven insights for marketing optimization.
+
+---
+
+### Pitchly Integration
+**Pitchly**  
+Pitchly transforms business data into reusable content assets such as proposals and pitch decks, enhancing document workflows.
+
+---
+
+### QuintaDB Integration
+**QuintaDB**  
+QuintaDB lets users design online databases and CRM tools with drag-and-drop customization for data organization.
+
+---
+
+### Retable Integration
+**Retable**  
+Retable streamlines team collaboration on spreadsheets and centralizes data in real time for easy access and updates.
+
+---
+
+### Sales.Rocks Integration
+**Sales.Rocks**  
+Sales.Rocks provides verified business and contact data to support B2B sales prospecting across global markets.
+
+---
+
+### SimpleLocalize Integration
+**SimpleLocalize**  
+SimpleLocalize manages translation data and localization workflows across multiple languages for applications.
+
+---
+
+### Solve Data Integration
+**Solve Data**  
+Solve Data organizes and stores organizational information in structured databases for better accessibility and management.
+
+---
+
+### Specter Integration
+**Specter**  
+Specter offers alternative data insights and analytics to help businesses gain a competitive edge in decision-making.
+
+---
+
+### The Customer Factor Integration
+**The Customer Factor**  
+A CRM app to manage customer data, appointments, and invoices, providing centralized business information access.
+
+---
+
+### TiDB Cloud Integration
+**TiDB Cloud**  
+TiDB Cloud provides a fully managed, MySQL-compatible HTAP (Hybrid Transactional/Analytical) database service.
+
+---
+
+### Timetonic Integration
+**Timetonic**  
+Timetonic enhances team collaboration and task organization through visual databases and communication tools.
+
+---
+
+### Token Metrics Integration
+**Token Metrics**  
+Token Metrics offers cryptocurrency analytics, AI-based trading signals, and real-time blockchain data.
+
+---
+
+### TrackVia Integration
+**TrackVia**  
+TrackVia enables businesses to build mobile-first workflow apps for process automation with minimal coding.
+
+---
+
+### Trevor.io Integration
+**Trevor.io**  
+Trevor.io allows teams to query databases and create real-time reports and dashboards — no SQL skills required.
+
+---
+
+### Xtractly Integration
+**Xtractly**  
+Xtractly automates data extraction from emails using AI to capture structured insights from unstructured content.
+
+---
+
+✅ **Total Integrations:** 101  
+💡 *For summary view, see `data-and-storage-integrations-summary.md`.*
+
+  
