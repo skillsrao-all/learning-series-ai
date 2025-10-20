@@ -1,1 +1,172 @@
-todo
+# ⚙️ n8n Productivity Integrations  
+_As of **19 Oct 2025**, there are **130 integrations** in this category._
+
+---
+
+## 📚 Overview
+The **Productivity** category includes a comprehensive collection of tools for **project management**, **time tracking**, **collaboration**, **task automation**, and **AI assistance**.  
+These integrations enable teams to **plan, execute, and optimize workflows**—from managing to-do lists and scheduling meetings to automating reports and enhancing team communication.
+
+---
+
+## 🔤 Alphabetical Summary (130 Integrations)
+
+| # | Integration | Description |
+|---|--------------|-------------|
+| 1 | **7todos** | Personal task board for managing multiple projects and staying organized. |
+| 2 | **Accelo** | Cloud-based software for automating client work, service delivery, and project tracking. |
+| 3 | **Acuity Scheduling Trigger** | Automates appointment booking and reminders for clients with self-scheduling options. |
+| 4 | **Airtop** | Productivity app offering streamlined collaboration and workflow efficiency. |
+| 5 | **Amilia** | AI-powered assistant to help users organize tasks, schedules, and personal workflows. |
+| 6 | **Asana** | Leading project management tool for organizing team tasks and strategic initiatives. |
+| 7 | **Asana Trigger** | Starts workflows when new tasks, projects, or updates occur in Asana. |
+| 8 | **AssemblyAI** | Speech-to-text and NLP service for transcribing and analyzing audio content. |
+| 9 | **Beeminder** | Goal-tracking app that motivates progress by charging users when goals are missed. |
+|10| **Better Proposals** | Tool for creating and sending digital proposals with e-signature and payment options. |
+|11| **Bitbucket Trigger** | Triggers automation when commits or pull requests are made in Bitbucket. |
+|12| **Bitrix24** | All-in-one collaboration platform offering CRM, project, and communication tools. |
+|13| **Breezy HR** | Cloud-based HR software for streamlining recruitment and candidate management. |
+|14| **CalendarHero** | Smart meeting scheduling assistant with automated availability and reminders. |
+|15| **Calendly** | Modern meeting scheduling app for seamless calendar management. |
+|16| **Calendly Trigger** | Triggers workflows when events or meetings are booked via Calendly. |
+|17| **Cal.com Trigger** | Open scheduling system for managing availability, meetings, and events. |
+|18| **Coda** | Unified platform combining docs, data, and tasks into one collaborative workspace. |
+|19| **ClickUp** | All-in-one productivity platform replacing multiple tools for tasks, docs, and goals. |
+|20| **ClickUp Trigger** | Activates workflows on new task creation, comments, or updates in ClickUp. |
+|21| **Clockify** | Free time tracker for teams with reporting and productivity analytics. |
+|22| **Clockify Trigger** | Starts workflows when new time entries or projects are created. |
+|23| **Cloze** | Smart relationship management assistant for tracking communications and contacts. |
+|24| **Cody** | Customizable AI assistant trained on your business data for internal productivity. |
+|25| **Coda Trigger** | Launches flows based on document changes or new entries in Coda. |
+|26| **CoinGecko** | Cryptocurrency analytics tool for tracking market and NFT pricing data. |
+|27| **Confluence** | Team collaboration workspace for documentation, notes, and wikis. |
+|28| **ConvertAPI** | File conversion platform supporting multiple formats for documents and media. |
+|29| **crowd.dev** | Community data platform for managing developer relations and engagement. |
+|30| **crowd.dev Trigger** | Activates workflows based on new community events or user actions. |
+|31| **DaySchedule** | Smart planner for managing appointments, daily tasks, and events efficiently. |
+|32| **DeTrack** | Cloud-based delivery management system for logistics and dispatch tracking. |
+|33| **DialZara** | AI-powered virtual receptionist for handling customer calls automatically. |
+|34| **Dock Certs** | Blockchain-based digital credential system for verifiable certificates. |
+|35| **Docupilot** | Document automation software for generating customized contracts and reports. |
+|36| **Draftable** | Compares two documents side by side to highlight textual differences. |
+|37| **Empsing** | AI-powered digital employee platform to automate repetitive office tasks. |
+|38| **Fathom** | AI meeting assistant that records, summarizes, and provides insights from calls. |
+|39| **Figma** | Collaborative UI/UX design platform for teams working on product interfaces. |
+|40| **Float** | Resource and capacity planning software for scheduling and forecasting. |
+|41| **Flow** | Task and project management tool for collaborative teams. |
+|42| **Flow Trigger** | Starts flows on task updates or completions within Flow. |
+|43| **Focuster** | Productivity scheduler that auto-prioritizes tasks based on time and focus. |
+|44| **Forms On Fire** | Mobile data collection app for automating form-based workflows. |
+|45| **Formstack Documents** | Automated document generation and data merging solution. |
+|46| **Freshservice** | Cloud ITSM platform offering incident and asset management workflows. |
+|47| **Gmail** | Email service integration for sending, reading, or automating messages. |
+|48| **GoCanvas** | Platform for digital form creation and mobile data collection. |
+|49| **Google Business Profile** | Manage Google listings, reviews, and online visibility from one dashboard. |
+|50| **Google Calendar** | Calendar scheduling and event management for individuals and teams. |
+|51| **Google Calendar Trigger** | Triggers when new calendar events or invites are created. |
+|52| **Google Docs** | Collaborative online document editor in Google Workspace. |
+|53| **Google Forms** | Online survey and data collection tool. |
+|54| **Google Sheets** | Web-based spreadsheet application with real-time collaboration. |
+|55| **Google Sheets Trigger** | Launches workflows when rows or sheets are updated. |
+|56| **Google Tasks** | Lightweight to-do list manager integrated into Google Workspace. |
+|57| **Grain** | Records and summarizes online meetings with AI-generated notes. |
+|58| **Guru** | AI-powered knowledge management and enterprise search platform. |
+|59| **Handwrytten** | Service for sending physical handwritten cards via digital automation. |
+|60| **Harvest** | Time tracking and reporting tool with invoicing capabilities. |
+|61| **HUB Planner** | Resource management software for workforce scheduling and project planning. |
+|62| **IdealSpot** | Data-driven location intelligence platform for business expansion insights. |
+|63| **iCalendar** | Standard calendar data format integration for syncing events. |
+|64| **Jira Software** | Agile project management tool for developers to plan and track work. |
+|65| **Jira Trigger** | Triggers workflows on new issues, comments, or status changes. |
+|66| **Kanban Tool** | Visual task management software for tracking progress on boards. |
+|67| **Karbon** | Practice management software for accounting and professional service firms. |
+|68| **Kitemaker** | Collaboration tool for software development teams to track goals and sprints. |
+|69| **Launch27** | Scheduling and booking automation tool for service-based businesses. |
+|70| **Let's Enhance** | AI image enhancement platform for upscaling and improving visuals. |
+|71| **Linear** | Issue tracking and project management system for software teams. |
+|72| **Linear Trigger** | Activates automation when issues or projects are updated. |
+|73| **Linode** | Cloud hosting platform providing scalable infrastructure for applications. |
+|74| **Mem** | AI-driven personal knowledge management and note-taking assistant. |
+|75| **Microsoft Excel 365** | Industry-leading spreadsheet tool for analysis and reporting. |
+|76| **Microsoft To Do** | Cloud-based task management and reminder tool. |
+|77| **Monday.com** | Work OS to plan, track, and manage projects collaboratively. |
+|78| **My AskAI** | Virtual AI assistant for answering questions and scheduling tasks. |
+|79| **Notion** | All-in-one workspace for tasks, wikis, and knowledge management. |
+|80| **Notion Trigger** | Triggers workflows when database or page changes occur. |
+|81| **Nyota** | AI meeting assistant that generates notes, insights, and summaries. |
+|82| **OmniMind** | AI suggestion engine for project feedback and workflow insights. |
+|83| **Oura** | Wellness and sleep tracking app with performance analytics. |
+|84| **PaperForm** | Online form and landing page builder for surveys and data collection. |
+|85| **Papyrs** | Team collaboration and intranet platform for content sharing. |
+|86| **Paymo** | Project management and time tracking tool with invoicing. |
+|87| **Personal AI** | Personalized virtual assistant for scheduling and organization. |
+|88| **Pinboard** | Bookmarking and content curation platform for research. |
+|89| **Pipefy** | Business process management platform for structured workflows. |
+|90| **Planview Leankit** | Lean project management tool for visualizing and optimizing workflows. |
+|91| **Product Hunt** | Community for discovering new products and technologies. |
+|92| **PromptHub** | Collaborative prompt management and testing platform for AI teams. |
+|93| **Pushcut** | iOS app for automating notifications, widgets, and shortcuts. |
+|94| **Raindrop** | Bookmark manager for saving, organizing, and sharing web links. |
+|95| **Read AI** | AI platform that extracts insights and summaries from written content. |
+|96| **Reverse Contact** | Reverse email lookup tool for enriching contact data. |
+|97| **Sembly AI** | Meeting summary generator for Zoom, Meet, and Teams. |
+|98| **ServiceNow** | ITSM and workflow automation platform for enterprise operations. |
+|99| **ShipHero** | E-commerce logistics and order fulfillment management system. |
+|100| **SignRequest** | Electronic signature solution for fast, secure document approvals. |
+|101| **SimpleKPI** | Business intelligence tool for visualizing key performance indicators. |
+|102| **Simplero** | All-in-one platform for managing online courses and memberships. |
+|103| **SmartSuite** | Comprehensive productivity suite for collaboration and data organization. |
+|104| **Snapdocs** | Digital mortgage closing platform connecting lenders and agents. |
+|105| **Strava** | Fitness tracking app for running, cycling, and training analytics. |
+|106| **Strava Trigger** | Starts workflows when new activities are recorded. |
+|107| **SuiteDash** | Unified business management suite for CRM, projects, and invoicing. |
+|108| **Superpowered** | AI-driven meeting transcriber and note generator. |
+|109| **SyncroMSP** | Managed service provider software for IT operations and monitoring. |
+|110| **Taiga** | Open-source Agile project management platform. |
+|111| **Taiga Trigger** | Launches workflows when new sprints or tasks are created. |
+|112| **TalentLMS** | Cloud-based training and learning management system. |
+|113| **TalkNotes** | Voice-to-text tool for transcribing spoken thoughts and meetings. |
+|114| **Teachable** | Platform for creating and selling online courses. |
+|115| **Team Up** | Scheduling software for teams to coordinate calendars and events. |
+|116| **Teamdeck** | Resource and time tracking tool for managing team workloads. |
+|117| **ThoughtfulGPT** | AI macro system for handling detailed, context-rich tasks. |
+|118| **Toggl Trigger** | Triggers flows when new time entries or tasks are created. |
+|119| **Todoist** | Task management and to-do list tool for personal and team productivity. |
+|120| **Twake** | Open-source digital workplace for messaging, tasks, and files. |
+|121| **TurboHire** | AI-based recruiting automation and talent acquisition tool. |
+|122| **UpKeep** | Asset management system for maintenance and reliability teams. |
+|123| **UserVoice** | Customer feedback and feature prioritization platform. |
+|124| **VivifyScrum** | Agile project management solution for sprints and task boards. |
+|125| **Voicit** | Voice recording and collaboration app with sharing options. |
+|126| **Wekan** | Open-source kanban board for visual project tracking. |
+|127| **Workast** | Team collaboration tool for managing tasks in chat platforms. |
+|128| **Workboard** | OKR and performance management tool for strategic alignment. |
+|129| **Yodiz** | Agile project management and issue tracking system. |
+|130| **Zoho WorkDrive** | Cloud document management for file collaboration and storage. |
+
+---
+
+## 💡 Example n8n Workflows
+
+| Use Case | Description |
+|-----------|-------------|
+| **Project Syncing** | Connect **Jira**, **Asana**, and **ClickUp** to automatically update task progress across systems. |
+| **Meeting Automation** | Combine **Google Calendar**, **Fathom**, and **Sembly AI** to record, summarize, and email meeting notes. |
+| **Task Prioritization** | Create a flow that moves completed tasks from **Todoist** → **Notion** → archives in **Google Sheets**. |
+| **Form-to-Document Workflow** | Capture responses from **Google Forms** → auto-generate documents in **Docupilot** or **Formstack Documents**. |
+| **AI Meeting Assistant** | Record calls using **Grain** or **Superpowered** → summarize with **Read AI** → send highlights to **Slack**. |
+| **Team Timesheet Reporting** | Gather **Clockify** or **Toggl** time data → generate **Excel** reports → email weekly summaries automatically. |
+| **Smart Scheduling** | Link **Calendly** or **CalendarHero** → update **Google Calendar** → send reminders via **Teams** or **Slack**. |
+| **Document Approval Loop** | Route new contracts from **SignRequest** → approval in **Workboard** → storage in **Zoho WorkDrive**. |
+| **AI-Enhanced Productivity** | Use **Mem**, **Personal AI**, or **ThoughtfulGPT** to automate daily work insights and suggestions. |
+
+---
+
+✅ **Category Summary**
+- **Total Integrations:** 130  
+- **Focus Areas:** Project Management • AI Productivity • Collaboration • Scheduling • Time Tracking • Automation  
+- **Updated:** 19 Oct 2025  
+
+---
+
+[⬆️ Back to Top](#-n8n-productivity-integrations)
