@@ -1,0 +1,301 @@
+# 🛡️ n8n Cybersecurity Integrations (Summary)
+_As of **19 Oct 2025**, there are **38 integrations** in this category._
+
+---
+
+### 📚 Overview
+This category includes tools for **threat detection, endpoint protection, SIEM, vulnerability management, identity security, and digital forensics** — empowering teams to detect, prevent, and respond to cyber threats efficiently.
+
+---
+
+### 🔤 Alphabetical Summary
+
+- **AbuseIPDB** – Reports and tracks malicious IP addresses to combat hacking and online abuse.  
+- **AlienVault (USM)** – Unified Security Management with integrated threat detection and incident response.  
+- **Auth0 Management API** – API access for managing identity, authentication, and user lifecycle in Auth0.  
+- **Carbon Black** – Endpoint detection and response platform for advanced malware protection (VMware).  
+- **Cisco Meraki** – Cloud-managed IT and network-security solution with centralized control.  
+- **Cisco Secure Endpoint** – Antivirus + EDR solution providing real-time endpoint threat protection.  
+- **Cisco Umbrella** – DNS and secure web-gateway service blocking malicious websites and phishing.  
+- **CrowdStrike** – Falcon cloud platform delivering AI-driven endpoint detection and response.  
+- **DigiCert** – SSL/TLS and PKI provider ensuring secure communication and authentication online.  
+- **F5 Big-IP** – Application-delivery suite with load balancing, firewall, and traffic-security services.  
+- **Filescan** – Cloud file-analysis engine detecting malware and reporting threat behaviors.  
+- **Fortinet FortiGate** – Enterprise-grade firewall and unified-threat-management security appliance.  
+- **FullContact** – Privacy-focused identity-resolution platform linking online and offline identifiers.  
+- **Greip** – AI-powered fraud-detection system preventing payment and transaction abuse.  
+- **Hybrid Analysis** – Malware-analysis sandbox for studying file and URL behavior in the cloud.  
+- **iAuditor by SafetyCulture** – Digital audit and inspection app improving compliance and safety.  
+- **Imperva WAF** – Web-application firewall protecting sites from injection and XSS attacks.  
+- **Iris DFIR** – Digital Forensics and Incident Response platform for evidence and breach analysis.  
+- **Kibana** – Data-visualization tool for security logs and telemetry (part of the ELK Stack).  
+- **KnowBe4** – Security-awareness and phishing-simulation training for employees.  
+- **Malcore** – Multi-engine malware-analysis service with machine-learning threat scoring.  
+- **Microsoft Azure Monitor** – Observability platform for telemetry, metrics, and security monitoring in Azure.  
+- **Microsoft Entra ID (Azure AD)** – Identity and access management service enabling secure authentication.  
+- **Mist (Juniper Networks)** – AI-driven wireless-network platform with analytics and automation.  
+- **Nightfall.ai** – AI engine for data-loss prevention, automatically detecting and redacting PII.  
+- **OpenCTI** – Open-source Cyber Threat Intelligence platform for sharing indicators and TTPs.  
+- **QRadar (IBM)** – SIEM platform providing centralized log analysis and real-time threat detection.  
+- **Qualys** – Cloud platform for vulnerability scanning, compliance, and risk management.  
+- **Rapid7 InsightVM** – Continuous vulnerability-management solution with risk prioritization.  
+- **Recorded Future** – Threat-intelligence platform delivering predictive insights on cyber risks.  
+- **Rootly** – Incident-management automation streamlining response and resolution.  
+- **Sekoia** – SOC-automation and threat-detection platform with integrated cyber-intelligence.  
+- **Shuffler** – Cloud-based Jupyter notebook environment for data and security-analysis automation.  
+- **Spike** – Incident-alerting app providing team scheduling and notification workflows.  
+- **Trellix ePO** – Centralized McAfee security-policy and endpoint-management console.  
+- **VirusTotal** – Multi-engine malware scanner for analyzing files and URLs for malicious content.  
+- **Zabbix** – Open-source network and system monitoring platform with alerting and dashboards.  
+- **Zscaler ZIA** – Zero-Trust Internet Access service securing outbound traffic and web usage.
+
+---
+
+✅ **Total Integrations:** 38  
+💡 *For detailed descriptions, see `cybersecurity-integrations.md` in this repository.*
+
+---
+
+# 🛡️ n8n Cybersecurity Integrations  
+_As of **19 Oct 2025**, there are **38 integrations** in this category._
+
+---
+
+## 📚 Overview
+The **Cybersecurity** category brings together integrations for threat intelligence, malware analysis, identity protection, vulnerability management, and automated incident response.  
+These tools enable organizations to **detect, prevent, and respond** to cyber threats efficiently — strengthening defenses across endpoints, cloud services, and network infrastructure.
+
+---
+
+### AbuseIPDB Integration
+**AbuseIPDB**  
+AbuseIPDB contributes to a safer internet by reporting and tracking malicious IP addresses involved in hacking attempts or abusive behavior. It enables community-driven protection for system administrators and security teams.
+
+---
+
+### AlienVault Integration
+**AlienVault (USM)**  
+AlienVault’s Unified Security Management (USM) platform offers integrated threat detection, incident response, and compliance management. It centralizes security operations to monitor and protect digital assets.
+
+---
+
+### Auth0 Management API Integration
+**Auth0 Management API**  
+The Auth0 Management API allows developers to programmatically configure identity and access management — including user provisioning, access control, and security policy automation.
+
+---
+
+### Carbon Black Integration
+**Carbon Black (VMware)**  
+Carbon Black provides advanced endpoint protection and threat analytics. It detects and responds to cyberattacks using behavioral EDR (Endpoint Detection and Response) intelligence.
+
+---
+
+### Cisco Meraki Integration
+**Cisco Meraki**  
+Cisco Meraki delivers cloud-managed IT and network security. It offers centralized control over firewalls, wireless access, and endpoint devices through an intuitive web dashboard.
+
+---
+
+### Cisco Secure Endpoint Integration
+**Cisco Secure Endpoint (AMP)**  
+Cisco Secure Endpoint unifies antivirus, EDR, and malware protection to identify, block, and remediate threats in real time using global threat intelligence.
+
+---
+
+### Cisco Umbrella Integration
+**Cisco Umbrella**  
+Cisco Umbrella is a cloud-based secure web gateway and DNS filtering service that blocks malicious websites and enforces safe browsing policies across all devices.
+
+---
+
+### CrowdStrike Integration
+**CrowdStrike Falcon**  
+CrowdStrike Falcon is a leading cloud-native endpoint security platform. It leverages AI and behavioral analytics for proactive detection, investigation, and response to cyber threats.
+
+---
+
+### DigiCert Integration
+**DigiCert**  
+DigiCert provides SSL/TLS certificates and digital identity solutions to secure websites, encrypt communications, and authenticate organizations across digital ecosystems.
+
+---
+
+### F5 Big-IP Integration
+**F5 Big-IP**  
+F5 Big-IP is a suite of application-delivery and security services that includes load balancing, traffic management, and a web-application firewall for protecting applications.
+
+---
+
+### Filescan Integration
+**Filescan**  
+Filescan offers cloud-based file scanning and malware analysis. It provides behavioral reports to help identify suspicious activity and prevent malicious file propagation.
+
+---
+
+### Fortinet FortiGate Integration
+**Fortinet FortiGate**  
+FortiGate appliances deliver enterprise-grade network security, including firewalls, VPNs, intrusion prevention, and web filtering, all managed from a unified console.
+
+---
+
+### FullContact Integration
+**FullContact**  
+FullContact provides identity-resolution services using privacy-conscious identity graphs to connect fragmented online and offline identifiers for secure, unified data profiles.
+
+---
+
+### Greip Integration
+**Greip**  
+Greip employs AI-based fraud-detection tools to safeguard payments, transactions, and financial systems, mitigating risks associated with payment fraud and identity theft.
+
+---
+
+### Hybrid Analysis Integration
+**Hybrid Analysis**  
+Hybrid Analysis is a malware-analysis sandbox that enables in-depth static and dynamic analysis of files and URLs. It assists analysts in understanding malicious behaviors.
+
+---
+
+### iAuditor by SafetyCulture Integration
+**iAuditor by SafetyCulture**  
+iAuditor is a mobile-first audit and inspection tool for compliance, security, and safety management. It helps organizations streamline inspections and enforce standards.
+
+---
+
+### Imperva WAF Integration
+**Imperva WAF**  
+Imperva’s Web Application Firewall defends applications against OWASP Top 10 threats such as SQL injection, XSS, and DDoS attacks. It provides visibility and compliance assurance.
+
+---
+
+### Iris DFIR Integration
+**Iris DFIR**  
+Iris DFIR (Digital Forensics & Incident Response) provides a collaborative platform for incident investigation, evidence handling, and forensic analysis.
+
+---
+
+### Kibana Integration
+**Kibana**  
+Kibana is an open-source visualization tool used with Elasticsearch to explore logs, metrics, and threat data — essential for SIEM dashboards and security analytics.
+
+---
+
+### KnowBe4 Integration
+**KnowBe4**  
+KnowBe4 delivers security-awareness training and phishing simulations to educate employees on recognizing cyber threats and reducing human error.
+
+---
+
+### Malcore Integration
+**Malcore**  
+Malcore is a multi-engine malware-analysis service using AI and signature-based engines to detect and classify malware, providing detailed reports for incident triage.
+
+---
+
+### Microsoft Azure Monitor Integration
+**Microsoft Azure Monitor**  
+Azure Monitor collects and analyzes telemetry data from Azure and on-premises environments, offering insights into performance, availability, and security posture.
+
+---
+
+### Microsoft Entra ID (Azure Active Directory) Integration
+**Microsoft Entra ID (Azure AD)**  
+Azure AD provides cloud-based identity and access management, enabling secure authentication and authorization across applications and services.
+
+---
+
+### Mist (Juniper Networks) Integration
+**Mist Systems**  
+Mist offers AI-driven wireless networking solutions that automate Wi-Fi optimization and deliver security analytics for enterprise environments.
+
+---
+
+### Nightfall.ai Integration
+**Nightfall.ai**  
+Nightfall.ai applies machine learning to automatically detect and protect sensitive data, including PII, PCI, and PHI, across cloud applications and collaboration tools.
+
+---
+
+### OpenCTI Integration
+**OpenCTI**  
+OpenCTI (Open Cyber Threat Intelligence) is an open-source platform for collecting, storing, and analyzing threat intelligence data to understand attacker TTPs and IOCs.
+
+---
+
+### QRadar Integration
+**IBM QRadar**  
+IBM QRadar is a SIEM solution that aggregates and analyzes log and network data, detecting security incidents and prioritizing responses for SOC teams.
+
+---
+
+### Qualys Integration
+**Qualys**  
+Qualys provides cloud-based vulnerability management, compliance monitoring, and risk assessment tools for securing enterprise IT assets.
+
+---
+
+### Rapid7 InsightVM Integration
+**Rapid7 InsightVM**  
+InsightVM offers continuous vulnerability scanning, dynamic risk assessment, and actionable remediation guidance to strengthen enterprise cybersecurity.
+
+---
+
+### Recorded Future Integration
+**Recorded Future**  
+Recorded Future delivers actionable threat intelligence by analyzing web, dark web, and technical sources to predict and prevent cyber threats.
+
+---
+
+### Rootly Integration
+**Rootly**  
+Rootly automates incident response and management workflows, providing structured collaboration and consistent reporting during security events.
+
+---
+
+### Sekoia Integration
+**Sekoia.io**  
+Sekoia provides automated detection, response, and cyber-threat intelligence capabilities across hybrid infrastructures, empowering modern SOC teams.
+
+---
+
+### Shuffler Integration
+**Shuffler**  
+Shuffler is a collaborative Jupyter notebook environment with automation and version control for security-data analysis and machine learning workflows.
+
+---
+
+### Spike Integration
+**Spike**  
+Spike centralizes alerting and on-call scheduling for IT and security teams, ensuring rapid response to incidents with automated escalation workflows.
+
+---
+
+### Trellix ePO Integration
+**Trellix ePolicy Orchestrator (ePO)**  
+Trellix ePO provides centralized security management for McAfee products, simplifying endpoint policy enforcement, updates, and reporting.
+
+---
+
+### VirusTotal Integration
+**VirusTotal**  
+VirusTotal aggregates multiple antivirus engines and sandbox technologies to analyze files and URLs for malware, providing collective threat intelligence.
+
+---
+
+### Zabbix Integration
+**Zabbix**  
+Zabbix is an open-source platform for real-time infrastructure monitoring and alerting, supporting SNMP, IPMI, and agent-based data collection.
+
+---
+
+### Zscaler ZIA Integration
+**Zscaler ZIA (Zero Trust Internet Access)**  
+ZIA is a cloud-delivered security service enforcing Zero Trust access to the internet. It inspects all outbound traffic to prevent malware, data leaks, and phishing.
+
+---
+
+✅ **Total Integrations:** 38  
+
+---
+
