@@ -1,1 +1,139 @@
-todo
+# 📈 n8n Marketing Integrations  
+_As of **19 Oct 2025**, there are **98 integrations** in this category._
+
+---
+
+## 📚 Overview
+The **Marketing** category connects n8n workflows with modern **content creation, automation, CRM, and analytics tools**.  
+From **email campaigns** and **social media automation** to **SEO**, **video marketing**, and **AI-powered content creation**, these integrations allow marketers to streamline lead generation, engagement, and reporting — all in one place.
+
+---
+
+## 🔤 Alphabetical Summary (98 Integrations)
+
+| # | Integration | Description |
+|---|--------------|-------------|
+| 1 | **3Scribe** | AI-assisted writing tool that helps generate engaging and creative marketing content. |
+| 2 | **AccuRanker** | Real-time keyword ranking and SEO tracking platform for performance monitoring. |
+| 3 | **Action Network** | Advocacy and fundraising tool for nonprofits to mobilize and organize supporters. |
+| 4 | **ActiveCampaign** | Marketing and sales automation platform for targeted emails and lead nurturing. |
+| 5 | **ActiveCampaign Trigger** | Triggers workflows when new campaigns, contacts, or automations start in ActiveCampaign. |
+| 6 | **AdRoll** | Retargeting and personalized advertising platform to improve conversion and ROI. |
+| 7 | **Agile CRM** | Unified CRM system for managing marketing, sales, and customer service workflows. |
+| 8 | **APITemplate.io** | Automatically generate images, banners, PDFs, and QR codes for campaigns. |
+| 9 | **Automizy** | Email campaign automation tool with AI-based subject line testing. |
+|10| **Autopilot** | All-in-one visual marketing automation platform for customer journeys. |
+|11| **Autopilot Trigger** | Starts flows on new contact, campaign, or journey updates in Autopilot. |
+|12| **Bannerbear** | API-based automation for social visuals, product images, and ad banners. |
+|13| **Benchmark Email** | Simplifies email campaign creation, A/B testing, and engagement tracking. |
+|14| **Blaze** | AI tool that auto-generates marketing blogs, ad copy, and social posts. |
+|15| **Brain Pod AI** | AI platform for content generation, SEO optimization, and bulk article creation. |
+|16| **Brandblast** | Automates social media post creation and scheduling for agencies. |
+|17| **BrandMentions** | Tracks brand mentions and sentiment across web and social platforms. |
+|18| **Brevo (Sendinblue)** | Comprehensive digital marketing suite for email, SMS, and CRM campaigns. |
+|19| **Brevo Trigger** | Activates workflows when new campaigns or contacts are added in Brevo. |
+|20| **BunnyCDN** | Content Delivery Network for faster delivery of marketing assets and media. |
+|21| **CleverReach** | Email marketing and automation software with customizable templates. |
+|22| **Cloudlayer** | API service to create and manipulate marketing images dynamically. |
+|23| **Cockpit** | Content creation and distribution platform built on an API-first approach. |
+|24| **Contentful** | Headless CMS for creating, managing, and reusing marketing content. |
+|25| **ConvertKit** | Creator-focused platform for building audiences, forms, and newsletters. |
+|26| **ConvertKit Trigger** | Triggers flows on new subscribers or email events from ConvertKit. |
+|27| **Copper** | Google-integrated CRM for marketing and sales pipeline automation. |
+|28| **Copy.ai** | AI writing assistant for generating persuasive ad and email copy. |
+|29| **Corsizio** | Event management platform with ticketing and attendee tracking features. |
+|30| **Dante AI** | Deep learning-based customer insights and predictive marketing analytics. |
+|31| **Descript** | AI-powered video and audio editing tool for marketing content creation. |
+|32| **E-goi** | Omnichannel marketing automation for email, SMS, and push campaigns. |
+|33| **Emelia** | Cold email platform for A/B testing and outreach automation. |
+|34| **Emelia Trigger** | Starts flows when new campaigns or replies are received in Emelia. |
+|35| **Enormail** | Simplified email automation tool to expand subscriber lists efficiently. |
+|36| **Facebook Lead Ads Trigger** | Captures new Facebook leads automatically and syncs with CRMs. |
+|37| **Facebook Trigger** | Triggers workflows on new posts, comments, or messages in Facebook. |
+|38| **Faraday** | Predictive analytics API to forecast customer behavior and segmentation. |
+|39| **GetResponse** | Email, website, and ecommerce marketing automation tool. |
+|40| **GetResponse Trigger** | Starts workflows on contact sign-ups, form submissions, or campaign events. |
+|41| **Ghost** | Publishing platform for modern creators with integrated SEO tools. |
+|42| **Google Business Profile** | Manages online business presence, reviews, and local search data. |
+|43| **Google Slides** | Automates creation of marketing presentations and reports from data. |
+|44| **Gravity Forms** | WordPress form builder plugin for lead generation and customer feedback. |
+|45| **Hacker News** | News aggregation platform to monitor and engage in tech-marketing communities. |
+|46| **HeyGen** | AI video generator that converts marketing scripts into personalized videos. |
+|47| **HighLevel** | Marketing and CRM platform for agencies managing multiple clients. |
+|48| **Iterable** | Cross-channel marketing automation for personalized customer engagement. |
+|49| **Jasper** | AI writing assistant tailored for marketing and content teams. |
+|50| **Klaviyo** | Email and SMS marketing platform optimized for ecommerce personalization. |
+|51| **LaGrowthMachine** | Growth automation tool for lead generation and audience engagement. |
+|52| **Laposta** | Intuitive email marketing system with segmentation and analytics. |
+|53| **Lemlist** | Outreach tool for personalized cold-email campaigns and lead engagement. |
+|54| **Lemlist Trigger** | Initiates flows on email opens, clicks, or campaign changes in Lemlist. |
+|55| **LinkedIn** | Professional networking platform for organic and paid B2B campaigns. |
+|56| **MailerLite** | Lightweight email marketing platform with automation and analytics. |
+|57| **MailerLite Trigger** | Triggers flows on new subscribers or campaign completions. |
+|58| **Mailchimp** | All-in-one marketing and email automation platform. |
+|59| **Mailchimp Trigger** | Activates workflows for subscriber updates or campaign activity. |
+|60| **Mailcheck** | Email verification tool for improving deliverability and reducing bounces. |
+|61| **Marketing Master IO** | All-in-one marketing optimization and strategy tool for digital teams. |
+|62| **Mautic** | Open-source marketing automation platform with CRM integration. |
+|63| **Mautic Trigger** | Starts n8n workflows based on campaign or contact updates. |
+|64| **Maverick** | AI platform for generating personalized customer engagement videos. |
+|65| **Medium** | Blogging and publishing platform for content marketing and thought leadership. |
+|66| **Miestro** | Platform for creating AI-enhanced online courses and communities. |
+|67| **Microsoft Dynamics CRM** | Microsoft’s CRM for lead management, marketing campaigns, and analytics. |
+|68| **Mux** | API-driven video platform for streaming and analytics. |
+|69| **Omniconvert** | Conversion rate optimization tool with A/B testing and personalization. |
+|70| **Ortto** | Unified platform for marketing automation, customer data, and analytics. |
+|71| **Phantombuster** | Web automation tool for lead generation and audience scraping. |
+|72| **Platform.ly** | Tracks marketing attribution and customer interactions across channels. |
+|73| **Predis.ai** | AI content generator for branded social posts, videos, and carousels. |
+|74| **Prodia** | AI API for generating marketing visuals and background music. |
+|75| **QuickChart** | API for creating visual reports and data-driven marketing charts. |
+|76| **Raven Tools** | SEO and marketing analytics platform for monitoring campaigns. |
+|77| **Rewardful** | Affiliate and referral tracking system for SaaS and subscription services. |
+|78| **SendGrid** | Cloud-based email delivery service for transactional and marketing emails. |
+|79| **Sendy** | Affordable newsletter software using Amazon SES for high-volume campaigns. |
+|80| **Storyblok** | Headless CMS for creating structured digital marketing content. |
+|81| **Strapi** | Open-source headless CMS for managing websites and ecommerce content. |
+|82| **SurveyMonkey Trigger** | Launches workflows when new survey responses are submitted. |
+|83| **Switchboard** | AI-powered image creation tool for scalable visual marketing assets. |
+|84| **Synthesia** | AI video generation platform for marketing, training, and product videos. |
+|85| **The Leap** | Creator tool for building and selling digital products. |
+|86| **Tilda** | No-code website and landing page builder for marketing teams. |
+|87| **Unbounce** | Conversion-focused landing page builder with A/B testing. |
+|88| **Vimeo** | Video platform for hosting and sharing marketing videos. |
+|89| **Webflow** | Visual website builder for designers to create and host marketing sites. |
+|90| **Webflow Trigger** | Initiates workflows on new form submissions or site changes. |
+|91| **WOXO** | Collaborative video editing platform for bulk video creation. |
+|92| **Wondercraft** | AI-powered podcast creation and publishing platform. |
+|93| **WordPress** | Website and blog platform with extensive plugin ecosystem. |
+|94| **Writesonic** | AI writing assistant for blogs, ads, and website copy. |
+|95| **X (Formerly Twitter)** | Social platform for sharing short-form posts, updates, and marketing content. |
+|96| **YouTube** | Video-sharing platform for hosting, analyzing, and promoting content. |
+|97| **Zapier (Bridge)** | Automate data flow between n8n and third-party marketing tools. |
+|98| **Zoho Campaigns** | Email marketing platform for list management and analytics. |
+
+---
+
+## 💡 Example n8n Workflows
+
+| Use Case | Description |
+|-----------|-------------|
+| **Email Campaign Automation** | Combine **Mailchimp**, **SendGrid**, or **MailerLite** with CRM triggers to send segmented campaigns. |
+| **Social Media Scheduling** | Post automatically to **X**, **LinkedIn**, or **Facebook** after content approval. |
+| **Lead Capture & Enrichment** | Use **Facebook Lead Ads**, **Phantombuster**, and **Copper** to collect and qualify leads. |
+| **AI-Driven Content Creation** | Generate posts via **Copy.ai**, **Jasper**, or **Writesonic**, then publish using **Webflow** or **WordPress**. |
+| **Customer Journey Tracking** | Sync contact data between **ActiveCampaign**, **Klaviyo**, and **Google Sheets** for lifecycle analysis. |
+| **SEO Reporting Automation** | Fetch rankings from **AccuRanker** → Generate charts with **QuickChart** → Send weekly reports via **Slack**. |
+| **Video Marketing Automation** | Create personalized videos in **Synthesia** → Upload to **YouTube/Vimeo** → Share via **LinkedIn**. |
+| **Survey-Based Campaigns** | Collect feedback from **SurveyMonkey** → Update CRM → Trigger nurturing emails. |
+
+---
+
+✅ **Category Summary**
+- **Total Integrations:** 98  
+- **Focus Areas:** Email • CRM • SEO • Content Creation • Analytics • Social Media • AI Marketing  
+- **Updated:** 19 Oct 2025  
+
+---
+
+[⬆️ Back to Top](#-n8n-marketing-integrations)
