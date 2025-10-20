@@ -1,1 +1,110 @@
-todo
+# 💼 n8n Sales Integrations  
+_As of **19 Oct 2025**, there are **66 integrations** in this category._
+
+---
+
+## 📚 Overview
+The **Sales** category empowers teams to automate **lead generation, CRM management, customer engagement, and eCommerce operations**.  
+These integrations streamline every stage of the sales funnel — from capturing prospects and nurturing leads to processing transactions and maintaining post-sale relationships — making it a vital toolkit for modern revenue operations.
+
+---
+
+## 🔤 Alphabetical Summary (66 Integrations)
+
+| # | Integration | Description |
+|---|--------------|-------------|
+| 1 | **ActiveTrail** | Automates customer journeys with omnichannel messaging across Email, SMS, WhatsApp, and Push notifications. |
+| 2 | **Affinity** | Relationship intelligence platform for tracking deal-making and building data-driven networks. |
+| 3 | **Affinity Trigger** | Initiates workflows on new deal updates or contact interactions in Affinity. |
+| 4 | **Agile CRM** | Unified CRM for managing sales, marketing, and service operations with automation. |
+| 5 | **Amazon** | eCommerce platform offering sales automation, inventory syncing, and order management via API. |
+| 6 | **Badger Maps** | Route optimization and territory management tool for field sales teams. |
+| 7 | **Big Cartel** | Online store builder for small businesses and artists with simple product management. |
+| 8 | **Brandfetch** | Automatically retrieves brand logos, colors, and assets to ensure consistency across systems. |
+| 9 | **Capsule** | CRM for managing contacts, leads, and opportunities to improve deal tracking. |
+|10| **Clearbit** | B2B intelligence platform offering data enrichment and lead conversion insights. |
+|11| **Convi** | AI-driven video prospecting tool for personalized outreach and higher call bookings. |
+|12| **ConvertKit** | Creator-focused email marketing and landing page tool to grow and nurture audiences. |
+|13| **ConvertKit Trigger** | Starts automations when new subscribers, tags, or sequences are added. |
+|14| **Copper** | Google Workspace-integrated CRM for managing sales pipelines and automations. |
+|15| **Copper Trigger** | Activates flows when leads, opportunities, or contacts are created or updated. |
+|16| **Dropcontact** | Data enrichment and email verification tool for maintaining clean, verified CRM records. |
+|17| **Drift** | Conversational marketing and sales platform connecting teams directly with buyers in real time. |
+|18| **ecwid** | eCommerce platform for building and managing online stores with global payment support. |
+|19| **Eventbrite Trigger** | Triggers workflows based on new event registrations or ticket sales. |
+|20| **Freshworks CRM** | CRM that personalizes customer engagement and shortens sales cycles with built-in automation. |
+|21| **Growbots** | Automated outbound sales platform that finds, contacts, and qualifies leads. |
+|22| **Gumroad** | Platform for selling digital products directly to consumers, ideal for creators and artists. |
+|23| **Gumroad Trigger** | Triggers workflows when new sales or customers are registered on Gumroad. |
+|24| **HighLevel** | All-in-one sales and marketing automation platform for agencies and SMBs. |
+|25| **HubSpot** | Full-featured CRM platform combining sales, marketing, and customer support tools. |
+|26| **HubSpot Trigger** | Starts automations when new contacts, deals, or form submissions occur. |
+|27| **Hunter** | Email-finding and verification service used for lead generation and outreach. |
+|28| **Intercom** | Customer engagement tool combining chat, support, and sales automation. |
+|29| **Keap** | CRM for small businesses offering marketing automation, lead capture, and eCommerce tools. |
+|30| **Keap Trigger** | Initiates workflows on new contacts or invoices created in Keap. |
+|31| **LIME Go** | B2B CRM designed for lead generation, deal tracking, and sales performance optimization. |
+|32| **LoneScale** | Intent data platform that identifies high-potential buyers based on market signals. |
+|33| **LoneScale Trigger** | Triggers automations when new buying intent data or leads are detected. |
+|34| **Lusha** | Contact data platform for finding verified B2B emails and phone numbers. |
+|35| **Magento 2** | E-commerce platform offering store customization, analytics, and integrated payments. |
+|36| **Mav** | Conversational AI that qualifies leads and automates follow-ups through text messaging. |
+|37| **Microsoft Dynamics CRM** | Enterprise CRM for sales, marketing, and service with analytics and reporting. |
+|38| **Myphoner** | Outbound sales CRM focused on lead calling, tracking, and pipeline management. |
+|39| **Paddle** | SaaS revenue platform providing billing, subscription, and tax automation. |
+|40| **PayPal** | Global payment solution for fast and secure online money transfers. |
+|41| **PayPal Trigger** | Activates workflows when new payments or invoices are processed. |
+|42| **Phantombuster** | Web automation tool for lead extraction, prospect enrichment, and CRM syncing. |
+|43| **Pipedrive** | Visual CRM designed to improve sales tracking, forecasting, and automation. |
+|44| **Pipedrive Trigger** | Launches workflows on deal creation, updates, or stage changes. |
+|45| **Prospe AI** | AI-powered lead generation tool that identifies key decision-makers in target markets. |
+|46| **Sales Simplify** | Sales automation platform for tracking leads, deals, and communications efficiently. |
+|47| **Salesforce** | Industry-leading cloud CRM offering automation, analytics, and 360° customer visibility. |
+|48| **Salesforce Trigger** | Starts automations on new or updated opportunities, leads, or contacts. |
+|49| **Salesmaa** | Automates outreach with personalized AI-generated sales emails and workflows. |
+|50| **Salesmate** | Intuitive CRM focused on improving team productivity and pipeline visibility. |
+|51| **Seamless AI** | Lead generation and enrichment platform for finding accurate B2B contact data. |
+|52| **Sellix** | eCommerce platform for selling digital goods and automating secure transactions. |
+|53| **Shopify** | Comprehensive eCommerce platform for managing products, payments, and customers. |
+|54| **Shopify Trigger** | Triggers workflows when new orders, products, or customers are added. |
+|55| **Stripe** | Payment processing platform supporting global eCommerce and subscription billing. |
+|56| **Stripe Trigger** | Starts workflows on successful charges, customers, or new subscriptions. |
+|57| **Supernormal** | AI assistant that captures and summarizes meeting notes directly into CRMs. |
+|58| **Tapfiliate** | Affiliate tracking and referral software for eCommerce and SaaS businesses. |
+|59| **Teamgate** | End-to-end sales CRM with lead tracking, reporting, and analytics capabilities. |
+|60| **ThriveCart** | Shopping cart and checkout optimization platform for digital product sales. |
+|61| **Uplead** | B2B contact database offering verified leads and sales prospecting tools. |
+|62| **Unleashed Software** | Inventory and order management solution for sales, supply, and stock control. |
+|63| **WooCommerce** | Open-source WordPress extension for building customizable online stores. |
+|64| **WooCommerce Trigger** | Initiates flows on new orders, customers, or product events. |
+|65| **Zoho CRM** | CRM solution for sales and marketing automation, analytics, and pipeline management. |
+|66| **Growbots (Trigger)** | Automates lead generation and outreach campaigns with AI targeting and personalization. |
+
+---
+
+## 💡 Example n8n Workflows
+
+| Use Case | Description |
+|-----------|-------------|
+| **Lead Enrichment Automation** | Capture leads from **Phantombuster** or **Hunter** → enrich data via **Clearbit** or **Dropcontact** → push to **Pipedrive** or **Salesforce**. |
+| **E-Commerce Order Sync** | Connect **Shopify**, **WooCommerce**, and **Stripe** to synchronize sales orders, track payments, and update CRM records automatically. |
+| **CRM Integration Loop** | Combine **HubSpot**, **Zoho CRM**, and **Salesforce** for a unified customer lifecycle view across departments. |
+| **Affiliate Campaigns** | Track referrals using **Tapfiliate** or **ThriveCart** → trigger payment updates via **Stripe** or **PayPal**. |
+| **AI-Powered Prospecting** | Use **Prospe AI**, **LoneScale**, and **Seamless AI** to identify new high-intent leads and trigger outreach sequences. |
+| **Inventory and Billing Flow** | Integrate **Unleashed Software** → **Paddle** or **Stripe** → **QuickBooks/Xero** to automate order fulfillment and invoicing. |
+| **Sales Email Automation** | Combine **ConvertKit**, **Keap**, and **Salesmaa** to nurture leads through multi-step follow-up sequences. |
+| **Meeting to CRM Sync** | Capture meeting summaries with **Supernormal** → update notes in **HubSpot** or **Salesmate** → trigger task reminders in **ClickUp**. |
+| **Field Sales Optimization** | Plan routes and log visits automatically by linking **Badger Maps** and **Teamgate** with **Google Maps API**. |
+| **Creator Storefront Flow** | Automate product uploads from **Gumroad** or **Big Cartel** → manage customer data in **HighLevel** → update mailing lists in **ConvertKit**. |
+
+---
+
+✅ **Category Summary**
+- **Total Integrations:** 66  
+- **Focus Areas:** CRM • eCommerce • Lead Generation • Sales Intelligence • Payments • Automation  
+- **Updated:** 19 Oct 2025  
+
+---
+
+[⬆️ Back to Top](#-n8n-sales-integrations)
+
