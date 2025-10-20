@@ -1,0 +1,275 @@
+# 📊 n8n Analytics & Data Integrations  
+_As of **19 Oct 2025**, there are **35 integrations** in this category._
+
+---
+
+## 📚 Table of Contents
+- [Google Analytics](#-google-analytics)
+- [Cortex](#-cortex)
+- [Grafana](#-grafana)
+- [Google Cloud Natural Language](#-google-cloud-natural-language)
+- [Segment](#-segment)
+- [Google Perspective](#-google-perspective)
+- [Google Ads](#-google-ads)
+- [Marketstack](#-marketstack)
+- [Orbit](#-orbit)
+- [PostHog](#-posthog)
+- [ProfitWell](#-profitwell)
+- [SecurityScorecard](#-securityscorecard)
+- [Humantic AI](#-humantic-ai)
+- [Big Data Cloud](#-big-data-cloud)
+- [Browse AI](#-browse-ai)
+- [ChartMogul](#-chartmogul)
+- [College Football Data](#-college-football-data)
+- [Databox](#-databox)
+- [Databricks](#-databricks)
+- [Datarobot](#-datarobot)
+- [Enterpret](#-enterpret)
+- [Kaggle](#-kaggle)
+- [Kraftful](#-kraftful)
+- [LeadBoxer](#-leadboxer)
+- [Leadpops](#-leadpops)
+- [Mixpanel](#-mixpanel)
+- [Oxylabs](#-oxylabs)
+- [Plecto](#-plecto)
+- [Qualaroo](#-qualaroo)
+- [SportsData](#-sportsdata)
+- [Survicate](#-survicate)
+- [Syncly](#-syncly)
+- [Textgain](#-textgain)
+- [WhatConverts](#-whatconverts)
+- [WuBook RateChecker](#-wubook-ratechecker)
+
+---
+
+## 📈 Google Analytics
+**Google Analytics**  
+Google Analytics gathers information from apps and websites to generate reports and insights on business performance.  
+It helps improve marketing and SEO through data-driven analytics and performance tracking.
+
+---
+
+## 🧠 Cortex
+**Cortex**  
+Cortex simplifies SOC and CSIRT operations by consolidating threat analysis into one tool.  
+It enables teams to investigate observables at scale and coordinate responses effectively.
+
+---
+
+## 📊 Grafana
+**Grafana**  
+An open-source visualization and analytics platform for interactive dashboards, charts, and alerts.  
+Integrates with multiple data sources to enable monitoring and observability across systems.
+
+---
+
+## 🧾 Google Cloud Natural Language
+**Google Cloud Natural Language**  
+A Google Cloud API that enables sentiment and syntax analysis, entity extraction, and text categorization through machine learning.
+
+---
+
+## 💬 Segment
+**Segment**  
+A customer data platform (CDP) for collecting, cleaning, and managing customer data.  
+It focuses on privacy and personalized experiences to drive customer engagement and business growth.
+
+---
+
+## 💡 Google Perspective
+**Google Perspective**  
+A free API for analyzing the potential impact of text in online discussions using ML.  
+Useful for moderating and improving the tone of digital conversations.
+
+---
+
+## 🎯 Google Ads
+**Google Ads**  
+An online advertising marketplace that allows businesses to bid for ad placements on Google Search, YouTube, and partner sites.
+
+---
+
+## 💹 Marketstack
+**Marketstack**  
+A reliable API for real-time and historical stock market data, delivering JSON-formatted results.  
+Trusted by 30,000+ users globally for financial data analytics.
+
+---
+
+## 🌐 Orbit
+**Orbit**  
+A community management platform helping organizations build and track community engagement and impact.  
+Used by 7,000+ companies for analytics and growth.
+
+---
+
+## 📈 PostHog
+**PostHog**  
+An open-source product analytics suite for event tracking, A/B testing, feature flags, and data pipelines.  
+Supports self-hosting and integration with modern data stacks.
+
+---
+
+## 💰 ProfitWell
+**ProfitWell**  
+A subscription analytics tool providing real-time financial metrics, benchmarks, and churn insights.  
+Helps businesses optimize pricing and improve retention.
+
+---
+
+## 🔐 SecurityScorecard
+**SecurityScorecard**  
+Provides continuous monitoring of an organization’s cybersecurity health and assigns a security rating.  
+Used to assess vendor and internal cyber-risk exposure.
+
+---
+
+## 🧬 Humantic AI
+**Humantic AI**  
+AI-driven behavioral analytics platform for understanding buyer personalities and improving sales communication.
+
+---
+
+## 🌍 Big Data Cloud
+**Big Data Cloud**  
+An IP geolocation solution offering precise and patented data analytics for industries like eCommerce, finance, and SaaS.
+
+---
+
+## 🤖 Browse AI
+**Browse AI**  
+AI-powered web data monitoring and customer behavior analytics.  
+Helps businesses extract and interpret online consumer insights for strategic decisions.
+
+---
+
+## 📉 ChartMogul
+**ChartMogul**  
+A subscription analytics and revenue tracking tool offering visual dashboards, MRR tracking, and customer churn analytics.
+
+---
+
+## 🏈 College Football Data
+**College Football Data**  
+A detailed dataset of college football stats, teams, players, and conferences.  
+Useful for sports analysts, researchers, and developers.
+
+---
+
+## 📊 Databox
+**Databox**  
+Centralizes real-time analytics from multiple sources into one dashboard.  
+Supports KPIs and visual reports for better data-driven decisions.
+
+---
+
+## ☁️ Databricks
+**Databricks**  
+A collaborative data and AI platform for scalable data engineering, machine learning, and analytics workloads.
+
+---
+
+## 🤖 DataRobot
+**DataRobot**  
+An automated machine learning (AutoML) platform that enables rapid creation and deployment of predictive models for business insights.
+
+---
+
+## 🧩 Enterpret
+**Enterpret**  
+Applies ML to analyze customer feedback and generate actionable business insights to improve operations and customer satisfaction.
+
+---
+
+## 📚 Kaggle
+**Kaggle**  
+An online platform for data science competitions, datasets, and collaboration.  
+Supports predictive modeling and machine learning experimentation.
+
+---
+
+## 🧠 Kraftful
+**Kraftful**  
+Provides AI-based analysis of user feedback to identify customer sentiment and improve product experiences.
+
+---
+
+## 🧮 LeadBoxer
+**LeadBoxer**  
+A lead generation and scoring platform using ML to track visitor behavior and identify high-value prospects.
+
+---
+
+## 🚀 Leadpops
+**Leadpops**  
+Enables businesses to create high-conversion landing pages and pop-ups for streamlined lead generation and better conversion rates.
+
+---
+
+## 📈 Mixpanel
+**Mixpanel**  
+An analytics platform that tracks user interactions on websites and apps.  
+Provides insights into user journeys and engagement metrics for product optimization.
+
+---
+
+## 🌐 Oxylabs
+**Oxylabs**  
+Provider of residential and datacenter proxy services and large-scale web data collection solutions for analytics and research.
+
+---
+
+## 📊 Plecto
+**Plecto**  
+A real-time dashboard and visualization platform for KPIs.  
+Empowers teams with performance insights through customizable dashboards.
+
+---
+
+## 🗣️ Qualaroo
+**Qualaroo**  
+Customer feedback collection platform with website surveys and analytics tools.  
+Enhances UX and increases conversion rates through behavioral insights.
+
+---
+
+## 🏟️ SportsData
+**SportsData**  
+Provides real-time sports stats, scores, odds, and projections for developers and sports analytics platforms.
+
+---
+
+## 💬 Survicate
+**Survicate**  
+Collects customer feedback via surveys, widgets, and analytics.  
+Delivers actionable insights to improve satisfaction and retention.
+
+---
+
+## ⚙️ Syncly
+**Syncly**  
+AI-powered feedback management system that categorizes and analyzes user input for smarter decision-making.
+
+---
+
+## 🧾 Textgain
+**Textgain**  
+Uses NLP to analyze and extract insights from multilingual text data at scale for sentiment and content intelligence.
+
+---
+
+## ☎️ WhatConverts
+**WhatConverts**  
+Tracks leads and marketing performance through call tracking, form tracking, and reporting dashboards for ROI analysis.
+
+---
+
+## 🏨 WuBook RateChecker
+**WuBook RateChecker**  
+A hotel industry tool for monitoring competitor pricing and analyzing rate fluctuations across booking platforms.
+
+---
+
+✅ **Total Integrations:** 35  
+
+---
