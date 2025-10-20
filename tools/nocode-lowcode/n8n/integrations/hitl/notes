@@ -1,0 +1,50 @@
+# 💬 n8n HITL (Human-In-The-Loop) Integrations  
+_As of **19 Oct 2025**, there are **10 integrations** in this category._
+
+---
+
+## 📚 Overview
+The **HITL (Human-In-The-Loop)** category enables real-time collaboration and communication between automated n8n workflows and humans.  
+These integrations connect with leading **messaging, email, and chat platforms**, allowing workflows to request approvals, send alerts, or gather input directly from people before proceeding.
+
+---
+
+## 🔤 Alphabetical Summary (10 Integrations)
+
+| # | Integration | Description |
+|---|--------------|-------------|
+| 1 | **Discord** | Online community and team communication tool supporting voice, video, and screen sharing for collaboration. |
+| 2 | **Gmail** | Free email service within Google Workspace used globally for personal and business communication. |
+| 3 | **Google Chat** | Messaging platform that allows teams to communicate, share files, and collaborate efficiently inside Google Workspace. |
+| 4 | **Microsoft Outlook** | Professional email and calendar service from Microsoft, offering task and contact management features. |
+| 5 | **Microsoft Teams** | Unified communication and collaboration platform with chat, meetings, and app integration for enterprises. |
+| 6 | **Respond to Chat** | Enables human review or manual approval within workflows by pausing automation until human input is received. |
+| 7 | **Send Email** | Generic n8n node for sending custom or templated emails directly within automated workflows. |
+| 8 | **Slack** | Team collaboration and messaging platform integrating with countless apps and workflow systems. |
+| 9 | **Telegram** | Fast, secure messaging app that supports large groups, file sharing, bots, and end-to-end encryption. |
+|10| **WhatsApp Business Cloud** | Cloud-hosted API for WhatsApp allowing businesses to send messages, notifications, and automated customer responses. |
+
+---
+
+## 💡 Example n8n Workflows
+
+| Use Case | Description |
+|-----------|-------------|
+| **Approval Workflow** | Automate purchase requests — send Slack or Teams message → manager approves via chat → continue flow. |
+| **Incident Escalation** | Detect server alert → send WhatsApp or Telegram message to on-call engineer → log acknowledgment. |
+| **Email Feedback Loop** | Send Gmail/Outlook email → wait for human response → trigger next automation step. |
+| **Customer Chatbot with HITL** | Handle initial queries via bot → escalate complex ones to a live agent on Microsoft Teams. |
+| **Community Notifications** | Publish project updates to **Discord** or **Telegram** channels automatically from GitHub commits. |
+| **Hybrid Email + Chat Workflow** | When customer replies via Gmail, automatically notify Slack or Google Chat workspace. |
+
+---
+
+✅ **Category Summary**
+- **Total Integrations:** 10  
+- **Focus Areas:** Communication • Collaboration • Approvals • Incident Response  
+- **Purpose:** Combine automation with human decision-making  
+- **Updated:** 19 Oct 2025  
+
+---
+
+[⬆️ Back to Top](#-n8n-hitl-humanintheloop-integrations)
